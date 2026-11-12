@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://panda-news/schema/manifest.schema.json",
+  "title": "PandaNewsArticle",
+  "description": "单篇文章的结构化数据，供阅读器直接消费。内容仓库的单一事实源契约。",
+  "type": "object",
+  "required": ["id", "title", "source", "published_at", "level", "category", "word_count", "content"],
+  "properties": {
+    "id": { "type": "string", "description": "全局唯一，如 news_20261112_001" },
+    "title": { "type": "string" },
+    "source": { "type": "string", "description": "来源名，如 BBC 中文" },
+    "source_url": { "type": "string", "description": "原文链接，合规署名用" },
+    "published_at": { "type": "string", "description": "ISO 日期 YYYY-MM-DD" },
+    "level": { "type": "integer", "minimum": 1, "maximum": 6, "description": "HSK 1-6 难度等级" },
+    "category": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "word_count": { "type": "integer", "minimum": 0 },
+    "audio_url": { "type": ["string", "null"], "description": "整篇朗读音频（可选，放对象存储）" },
+    "content": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sentence_id", "text", "pinyin", "translation", "tokens"],
+        "properties": {
+          "sentence_id": { "type": "string" },
+          "text": { "type": "string" },
+          "pinyin": { "type": "string" },
+          "translation": { "type": ["string", "null"] },
+          "audio_url": { "type": ["string", "null"] },
+          "tokens": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["w"],
+              "properties": {
+                "w": { "type": "string", "description": "词" },
+                "pos": { "type": ["string", "null"], "description": "词性" },
+                "hsk": { "type": ["integer", "null"], "description": "有效已知等级（GF 与考试大纲取较低者），null 表示未收录" },
+                "cross": { "type": "array", "items": { "type": "integer" }, "description": "考试大纲跨级标注，如 [4] 表示该词在 4 级复现；无则省略" },
+                "meaning": { "type": ["string", "null"] }
+              }
+            }
+          }
+        }
+      }
+    },
+    "new_vocab": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "w": { "type": "string" },
+          "hsk": { "type": ["integer", "null"] },
+          "cross": { "type": "array", "items": { "type": "integer" }, "description": "考试大纲跨级标注，无则省略" },
+          "meaning": { "type": ["string", "null"] },
+          "example": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

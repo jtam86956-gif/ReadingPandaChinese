@@ -1,0 +1,4513 @@
+{
+  "id": "bbc_zh_20261112_002",
+  "title": "黄仁勋婚外情：黄乐据称已返回中国，曾多次入境美国、台湾",
+  "source": "BBC 中文",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12",
+  "level": 6,
+  "category": "时事",
+  "tags": [],
+  "word_count": 1055,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "黄仁勋婚外情：黄乐据称已返回中国，曾多次入境美国、台湾",
+      "pinyin": "huáng rén xūn hūn wài qíng ： huáng lè jù chēng yǐ fǎn huí zhōng guó ， céng duō cì rù jìng měi guó 、 tái wān",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "黄仁勋",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "婚外情",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "据称",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "返回",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曾多次",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "卷入黄仁动婚外情、被指涉入中国间谍活动的女子黄乐（Alice Huang Le）据称已经返回中国。",
+      "pinyin": "juǎn rù huáng rén dòng hūn wài qíng 、 bèi zhǐ shè rù zhōng guó jiàn dié huó dòng de nǚ zǐ huáng lè （Alice Huang Le） jù chēng yǐ jīng fǎn huí zhōng guó 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "卷入",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "黄仁",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "动",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "婚外情",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "被",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "指涉",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "入",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "间谍活动",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "女子",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Alice",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Huang",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Le",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "据称",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已经",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "返回",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "《彭博》周四（12日）援引知情人士透露，黄乐目前在北京居住，安全部门对此知情。",
+      "pinyin": "《 péng bó 》 zhōu sì （12 rì ） yuán yǐn zhī qíng rén shì tòu lù ， huáng lè mù qián zài běi jīng jū zhù ， ān quán bù mén duì cǐ zhī qíng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "彭博",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "周四",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "12",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "日",
+          "pos": "m",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "援引",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "知情",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人士",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "透露",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "目前",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "北京",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "居住",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "安全部门",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "对此",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "知情",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "但表示不清楚她何时、为何前往北京，以及她可能在从事什么活动。",
+      "pinyin": "dàn biǎo shì bù qīng chǔ tā hé shí 、 wèi hé qián wǎng běi jīng ， yǐ jí tā kě néng zài cóng shì shén me huó dòng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "清楚",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "何时",
+          "pos": "c",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "为何",
+          "pos": "r",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "前往",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "北京",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以及",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "可能",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "从事",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "什么",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "活动",
+          "pos": "vn",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "黄乐是中国公民，湖南人，曾赴香港浸会大学攻读硕士，其后取得香港永久居民资格。",
+      "pinyin": "huáng lè shì zhōng guó gōng mín ， hú nán rén ， céng fù xiāng gǎng jìn huì dà xué gōng dú shuò shì ， qí hòu qǔ dé xiāng gǎng yǒng jiǔ jū mín zī gé 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "公民",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "湖南人",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曾",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "赴",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "香港浸会大学",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "攻读",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "硕士",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其后",
+          "pos": "c",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "取得",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "永久",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "居民",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "资格",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "据《纽约时报》与《金融时报》报导，她在2023年3月至11月间出任新加坡数据中心公司Megaspeed的董事总经理，后来自称行政总裁。",
+      "pinyin": "jù 《 niǔ yuē shí bào 》 yǔ 《 jīn róng shí bào 》 bào dǎo ， tā zài 2023 nián 3 yuè zhì 11 yuè jiān chū rèn xīn jiā pō shù jù zhōng xīn gōng sī Megaspeed de dǒng shì zǒng jīng lǐ ， hòu lái zì chēng xíng zhèng zǒng cái 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "据",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "纽约时报",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "金融时报",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "报导",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "2023",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "3",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "月",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "至",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "11",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "月间",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "出任",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "新加坡",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "数据中心",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "Megaspeed",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "董事",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "总经理",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "后来",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "自称",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "行政",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "总裁",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "该公司由中国游戏公司第七大道分拆而来，大量采购辉达GPU，并将运算能力出租给阿里巴巴等中国企业，因此引起美方对规避出口管制的调查。",
+      "pinyin": "gāi gōng sī yóu zhōng guó yóu xì gōng sī dì qī dà dào fēn chāi ér lái ， dà liàng cǎi gòu huī dá GPU， bìng jiāng yùn suàn néng lì chū zū gěi ā lǐ bā bā děng zhōng guó qǐ yè ， yīn cǐ yǐn qǐ měi fāng duì guī bì chū kǒu guǎn zhì de diào chá 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "该",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "由",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "游戏",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "第七",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大道",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "分拆",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大量",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "采购",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "辉达",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "GPU",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "并",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "运算",
+          "pos": "vn",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "能力",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "出租",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "给",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "阿里巴巴",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "等",
+          "pos": "u",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "企业",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "因此",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "引起",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "美方",
+          "pos": "q",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "对",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "规避",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "出口",
+          "pos": "vn",
+          "hsk": 2,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "管制",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "调查",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "据港媒《香港01》在香港、新加坡及内地查册发现，今年中黄乐注册了数间香港公司，同时是「南京领行科技」（T3出行）的董事。",
+      "pinyin": "jù gǎng méi 《 xiāng gǎng 01》 zài xiāng gǎng 、 xīn jiā pō jí nèi dì chá cè fā xiàn ， jīn nián zhōng huáng lè zhù cè le shù jiān xiāng gǎng gōng sī ， tóng shí shì 「 nán jīng lǐng xíng kē jì 」（T3 chū xíng ） de dǒng shì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "据",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "港",
+          "pos": "j",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "媒",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "01",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "新加坡",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "及",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "内地",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "查册",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "发现",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "今年",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "中黄乐",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "注册",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "数间",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "同时",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "南京",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "领行",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "科技",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "T3",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "出行",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "董事",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "该公司今年向港交所递交上市申请，但遭拒绝。",
+      "pinyin": "gāi gōng sī jīn nián xiàng gǎng jiāo suǒ dì jiāo shàng shì shēn qǐng ， dàn zāo jù jué 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "该",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "今年",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "向",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "港交所",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "递交",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "上市",
+          "pos": "ns",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "申请",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "遭",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "拒绝",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "曾十次入境美国、八次入境台湾",
+      "pinyin": "céng shí cì rù jìng měi guó 、 bā cì rù jìng tái wān",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "曾",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "十次",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "八次",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "美国有线电视新闻网（CNN）的调查报导美国海关和边境保护局的记录，显示黄乐自2017年起入境美国十次。",
+      "pinyin": "měi guó yǒu xiàn diàn shì xīn wén wǎng （CNN） de diào chá bào dǎo měi guó hǎi guān hé biān jìng bǎo hù jú de jì lù ， xiǎn shì huáng lè zì 2017 nián qǐ rù jìng měi guó shí cì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "美国有线电视新闻网",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "CNN",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "调查",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "报导",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "海关",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "边境",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "保护局",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "记录",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "显示",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "2017",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "起",
+          "pos": "v",
+          "hsk": 1,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "十次",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "最近一次是在2025年3月，当时她被拍到在Nvidia位于圣克拉拉的总部，参加该公司的年度会议。",
+      "pinyin": "zuì jìn yī cì shì zài 2025 nián 3 yuè ， dāng shí tā bèi pāi dào zài Nvidia wèi yú shèng kè lā lā de zǒng bù ， cān jiā gāi gōng sī de nián dù huì yì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "最近",
+          "pos": "f",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "一次",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "2025",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "3",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "月",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "当时",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "被",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "拍到",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "Nvidia",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "位于",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "圣克拉拉",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "总部",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "参加",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "该",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "年度",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "会议",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "目前尚未清楚黄乐如何认识黄仁勋。",
+      "pinyin": "mù qián shàng wèi qīng chǔ huáng lè rú hé rèn shí huáng rén xūn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "目前",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "尚未",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "清楚",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如何",
+          "pos": "r",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "认识",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "黄仁勋",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "据《纽约时报》核实的一张照片，二人最早的一张合照，或摄于2023年12月新加坡一家义大利餐厅中。",
+      "pinyin": "jù 《 niǔ yuē shí bào 》 hé shí de yī zhāng zhào piān ， èr rén zuì zǎo de yī zhāng hé zhào ， huò shè yú 2023 nián 12 yuè xīn jiā pō yī jiā yì dà lì cān tīng zhōng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "据",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "纽约时报",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "核实",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一张",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "照片",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "二人",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "最早",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一张",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "合照",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "或",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "摄于",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "2023",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "12",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "月",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "新加坡",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一家",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "义大利",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "餐厅",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "中",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "此后二人于上海、美国矽谷、加州高尔夫度假村，以及台湾均有见面。",
+      "pinyin": "cǐ hòu èr rén yú shàng hǎi 、 měi guó xì gǔ 、 jiā zhōu gāo ěr fū dù jià cūn ， yǐ jí tái wān jūn yǒu jiàn miàn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "此后",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "二人",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "上海",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "矽谷",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "加州",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "高尔夫",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "度假村",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以及",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "均",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "见面",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "黄乐被指多次以香港居民身分入境台湾。",
+      "pinyin": "huáng lè bèi zhǐ duō cì yǐ xiāng gǎng jū mín shēn fèn rù jìng tái wān 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "被",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "指",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "多次",
+          "pos": "m",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "居民",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "身分",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "台湾内政部长刘世芳表示，移民署已废止黄乐的入出境许可证，不可能再来台。",
+      "pinyin": "tái wān nèi zhèng bù zhǎng liú shì fāng biǎo shì ， yí mín shǔ yǐ fèi zhǐ huáng lè de rù chū jìng xǔ kě zhèng ， bù kě néng zài lái tái 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "内政部长",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "刘世芳",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "移民",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "署",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "废止",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "入出境",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "许可证",
+          "pos": "nr",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "可能",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "再",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "台",
+          "pos": "q",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "台湾陆委会主委邱垂正在立法院接受质询时确认，黄乐于2024年、2025年都有入境台湾的纪录，2024年有3次、2025年有5次，共有8次，今年则没有纪录。",
+      "pinyin": "tái wān lù wěi huì zhǔ wěi qiū chuí zhèng zài lì fǎ yuàn jiē shòu zhì xún shí què rèn ， huáng lè yú 2024 nián 、2025 nián dōu yǒu rù jìng tái wān de jì lù ，2024 nián yǒu 3 cì 、2025 nián yǒu 5 cì ， gòng yǒu 8 cì ， jīn nián zé méi yǒu jì lù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陆委会",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "主委",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "邱垂",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "正在",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "立法院",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "接受",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "质询",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "确认",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "乐于",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "2024",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "2025",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "都",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "纪录",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "2024",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "3",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "次",
+          "pos": "t",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "2025",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "5",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "次",
+          "pos": "t",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "共有",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "8",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "次",
+          "pos": "t",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "今年",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "纪录",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "他表示，黄乐涉嫌违反「香港澳门居民进入台湾地区及居留定居许可办法」第9条第1款第10项「可能有危害国家利益、公共安全或公共利益之虞」，未来她若再次申请来台，当局将会严格注记、依法管制其入境；",
+      "pinyin": "tā biǎo shì ， huáng lè shè xián wéi fǎn 「 xiāng gǎng ào mén jū mín jìn rù tái wān dì qū jí jū liú dìng jū xǔ kě bàn fǎ 」 dì 9 tiáo dì 1 kuǎn dì 10 xiàng 「 kě néng yǒu wēi hài guó jiā lì yì 、 gōng gòng ān quán huò gōng gòng lì yì zhī yú 」， wèi lái tā ruò zài cì shēn qǐng lái tái ， dāng jú jiāng huì yán gé zhù jì 、 yī fǎ guǎn zhì qí rù jìng ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "涉嫌",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "违反",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "香港",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "澳门",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "居民",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "进入",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "台湾地区",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "及",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "居留",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "定居",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "许可",
+          "pos": "nr",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "办法",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "第",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "9",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "条",
+          "pos": "q",
+          "hsk": 2,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "第",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "1",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "款",
+          "pos": "m",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "第",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "10",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "项",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可能",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "危害",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "国家",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "利益",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "公共安全",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "或",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "公共利益",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之虞",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "未来",
+          "pos": "t",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "若",
+          "pos": "c",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "再次",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "申请",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "台",
+          "pos": "q",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "当局",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "会",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "严格",
+          "pos": "ad",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "注记",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "依法",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "管制",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "针对陆港澳人士申请来台，未来也会加强审核。",
+      "pinyin": "zhēn duì lù gǎng ào rén shì shēn qǐng lái tái ， wèi lái yě huì jiā qiáng shěn hé 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "针对",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "陆",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "港澳",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人士",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "申请",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "台",
+          "pos": "q",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "未来",
+          "pos": "t",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "会",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "加强",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "审核",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "《纽约时报》报导，2024年台湾政府曾应美国建议，对黄乐访台行踪进行监控。",
+      "pinyin": "《 niǔ yuē shí bào 》 bào dǎo ，2024 nián tái wān zhèng fǔ céng yīng měi guó jiàn yì ， duì huáng lè fǎng tái xíng zōng jìn xíng jiān kòng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "纽约时报",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "报导",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "2024",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "台湾",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "政府",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "曾",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "应",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "建议",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "对",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "访台",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "行踪",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进行",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "监控",
+          "pos": "vn",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s22",
+      "text": "邱垂正回应立委张智伦询问时表示，这部分陆委会不知情，如果有重要情资，会强化人流管理入境审查。",
+      "pinyin": "qiū chuí zhèng huí yìng lì wěi zhāng zhì lún xún wèn shí biǎo shì ， zhè bù fèn lù wěi huì bù zhī qíng ， rú guǒ yǒu zhòng yào qíng zī ， huì qiáng huà rén liú guǎn lǐ rù jìng shěn chá 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "邱垂正",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "回应",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "立委",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "张智伦",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "询问",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这部分",
+          "pos": "mq",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陆委会",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不知情",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如果",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "重要",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "情资",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "会",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "强化",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "人流",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "管理",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "入境",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "审查",
+          "pos": "vn",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s23",
+      "text": "胡锡进称中国「从不专门使用美人计」",
+      "pinyin": "hú xī jìn chēng zhōng guó 「 cóng bù zhuān mén shǐ yòng měi rén jì 」",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "胡锡",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进称",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "从不",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "专门",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "使用",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "美人计",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s24",
+      "text": "对于黄乐从事间谍活动的说法，中国外交部否认相关指控，批评是「捕风捉影、污蔑抹黑」。",
+      "pinyin": "duì yú huáng lè cóng shì jiàn dié huó dòng de shuō fǎ ， zhōng guó wài jiāo bù fǒu rèn xiāng guān zhǐ kòng ， pī píng shì 「 bǔ fēng zhuō yǐng 、 wū miè mǒ hēi 」。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "对于",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "黄乐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "从事",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "间谍活动",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说法",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中国外交部",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "否认",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "相关",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "指控",
+          "pos": "vn",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "批评",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "捕风捉影",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "污蔑",
+          "pos": "vn",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "抹黑",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s25",
+      "text": "前《环球时报》总编辑胡锡进发文表示，这次事件是美国民主党与建制派借机打击黄仁勋、进而牵制特朗普的手段，「这不是普通绯闻，这是政治」，并指如果任由「有罪推定」逻辑蔓延，正常科技经贸往来将被舆论暗箭消耗，拖累中美和全球产业链。",
+      "pinyin": "qián 《 huán qiú shí bào 》 zǒng biān jí hú xī jìn fā wén biǎo shì ， zhè cì shì jiàn shì měi guó mín zhǔ dǎng yǔ jiàn zhì pài jiè jī dǎ jī huáng rén xūn 、 jìn ér qiān zhì tè lǎng pǔ de shǒu duàn ，「 zhè bú shì pǔ tōng fēi wén ， zhè shì zhèng zhì 」， bìng zhǐ rú guǒ rèn yóu 「 yǒu zuì tuī dìng 」 luó jí màn yán ， zhèng cháng kē jì jīng mào wǎng lái jiāng bèi yú lùn àn jiàn xiāo hào ， tuō lěi zhōng měi hé quán qiú chǎn yè liàn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "前",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "环球时报",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "总编辑",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "胡锡",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进发",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "文",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这次",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "事件",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "美国民主党",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "建制",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "派",
+          "pos": "v",
+          "hsk": 3,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "借机",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "打击",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "黄仁勋",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进而",
+          "pos": "c",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "牵制",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "特朗普",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "手段",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不是",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "普通",
+          "pos": "nz",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "绯闻",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "政治",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "并",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "指",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "如果",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "任由",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有罪",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "推定",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "逻辑",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "蔓延",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "正常",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "科技",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "经贸",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "往来",
+          "pos": "t",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "被",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "舆论",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "暗箭",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "消耗",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "拖累",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "中美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "全球",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "产业链",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s26",
+      "text": "胡锡进又自称情报学出身，表示中国情报界「从不专门使用美人计」，「我们防美人计，但从不要求女情报人员透过上床达成任务目标」。",
+      "pinyin": "hú xī jìn yòu zì chēng qíng bào xué chū shēn ， biǎo shì zhōng guó qíng bào jiè 「 cóng bù zhuān mén shǐ yòng měi rén jì 」，「 wǒ men fáng měi rén jì ， dàn cóng bù yāo qiú nǚ qíng bào rén yuán tòu guò shàng chuáng dá chéng rèn wù mù biāo 」。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "胡锡进",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "自称",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "情报学",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "出身",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "情报界",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "从不",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "专门",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "使用",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "美人计",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "防",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "美人计",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "从不",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "要求",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "女",
+          "pos": "b",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "情报人员",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "透过",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "上床",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "达成",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "任务",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "目标",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "黄仁勋",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "婚外情",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "黄乐",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "据称",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "曾多次",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "入境",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "美国",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "台湾",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "卷入",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "黄仁",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "指涉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "间谍活动",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "彭博",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "周四",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "援引",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "知情",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "透露",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "安全部门",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "对此",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "何时",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "为何",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "湖南人",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "赴",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "香港浸会大学",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "攻读",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "其后",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "香港",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "永久",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "纽约时报",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "金融时报",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "报导",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "月间",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "出任",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "新加坡",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "数据中心",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "董事",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "总经理",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "自称",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "行政",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "第七",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

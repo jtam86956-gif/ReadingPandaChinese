@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# --- 大文件：不进 Git，走对象存储（R2）---
+content/**/*.mp3
+content/**/*.m4a
+content/**/*.pdf
+content/**/*.png
+content/**/*.jpg
+content/**/*.jpeg
+# epub 若带图可能较大，先不忽略；体积超标时改走 Git LFS / R2
+
+# --- 流水线中间产物 ---
+*.tmp
+tmp/
+*.bak
+
+# --- 系统 ---
+.DS_Store
+@eaDir/

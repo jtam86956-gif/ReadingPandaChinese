@@ -12,14 +12,15 @@ CONTENT_DIR = ROOT / "content"
 DATA_DIR = ROOT / "data"
 SCHEMA_DIR = ROOT / "schema"
 
-# --- 内容信源（M0 先接 1-2 个合规公开 RSS；可在 data/sources.json 扩展）---
-# 选型原则：公开 RSS、允许抓取、非付费墙。详见 PRD §6.1。
+# --- 内容信源 ---
+# 内容红线（PRD v0.3）：只接入**公版或自有**内容，代码只做抓取与原样展示，
+# 不改写、不附加任何生成式释义或注释。非公版来源（商业新闻、政府媒体）一律不接入。
 SOURCES = [
     {
-        "id": "bbc_zh",
-        "name": "BBC 中文",
-        "feed": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
-        "category": "时事",
+        "id": "wikisource",
+        "name": "维基文库·公版书",
+        "type": "wikisource",
+        "category": "文学",
         "enabled": True,
     },
 ]

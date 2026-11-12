@@ -1,9 +1,5 @@
-# Panda News 内容流水线依赖（M0）
+# Panda News 内容流水线依赖
 # 运行：python3 -m pip install -r requirements.txt
-
-# 抓取
-feedparser>=6.0        # RSS/Atom 解析
-trafilatura>=1.6       # 正文提取（去广告/导航）
 
 # 中文 NLP
 pypinyin>=0.50         # 注音（带声调）
@@ -12,4 +8,3 @@ opencc-python-reimplemented>=0.1.6  # 繁简统一（纯 Python，无需系统�
 
 # 校验 / 工具
 jsonschema>=4.20       # manifest.json 合规校验
-requests>=2.31         # HTTP（trafilatura 间接依赖，显式锁定）

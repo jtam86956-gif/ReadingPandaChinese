@@ -1,0 +1,2852 @@
+{
+  "id": "wikisource_20261112_008",
+  "title": "民报发刊词（孙文·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%B0%91%E5%A0%B1%E7%99%BC%E5%88%8A%E8%A9%9E",
+  "published_at": "2026-11-12",
+  "level": 9,
+  "category": "社科",
+  "tags": [],
+  "word_count": 512,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "近时杂志之作者亦伙矣。",
+      "pinyin": "jìn shí zá zhì zhī zuò zhě yì huǒ yǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "近时",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "杂志",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "作者",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "亦",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "伙",
+          "pos": "q",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "矣",
+          "pos": "y",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "姱词以为美，嚣听而无所终，摘埴索涂不获，则反复其词而自惑。",
+      "pinyin": "kuā cí yǐ wéi měi ， xiāo tīng ér wú suǒ zhōng ， zhāi zhí suǒ tú bù huò ， zé fǎn fù qí cí ér zì huò 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "姱",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "词",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "以为",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "美",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "嚣",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "听而无所终",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "摘埴索涂",
+          "pos": "z",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "获",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "反复",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "词",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "自惑",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "求其斟时弊以立言，如古人所谓对症发药者，已不可见，而况夫孤怀宏识、远瞩将来者乎？",
+      "pinyin": "qiú qí zhēn shí bì yǐ lì yán ， rú gǔ rén suǒ wèi duì zhèng fā yào zhě ， yǐ bù kě jiàn ， ér kuàng fū gū huái hóng shí 、 yuǎn zhǔ jiāng lái zhě hū ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "求",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "斟",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时弊",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "立言",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "古人",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "所谓",
+          "pos": "b",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "对症发药",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "可见",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而况",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "夫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "孤怀",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "宏识",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "远瞩",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "将来",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "乎",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "夫缮群之道，与群俱进，而择别取舍，惟其最宜。",
+      "pinyin": "fū shàn qún zhī dào ， yǔ qún jù jìn ， ér zé bié qǔ shě ， wéi qí zuì yí 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "夫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "缮群",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "道",
+          "pos": "q",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "群",
+          "pos": "q",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "俱",
+          "pos": "dg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "择别",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "取舍",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "惟其",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "最宜",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "此群之历史既与彼群殊，则所以掖而进之之阶级，不无后先进止之别。",
+      "pinyin": "cǐ qún zhī lì shǐ jì yǔ bǐ qún shū ， zé suǒ yǐ yē ér jìn zhī zhī jiē jí ， bù wú hòu xiān jìn zhǐ zhī bié 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "此",
+          "pos": "r",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "群",
+          "pos": "q",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "f",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "历史",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "既",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "彼",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "群殊",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "掖",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "进",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "阶级",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不无",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "后",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "先进",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "止",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "别",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "由之不贰，此所以为舆论之母也。",
+      "pinyin": "yóu zhī bù èr ， cǐ suǒ yǐ wéi yú lùn zhī mǔ yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "由之",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "贰",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "此",
+          "pos": "zg",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "舆论",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "之母",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "余维欧美之进化，凡以三大主义：曰民族，曰民权，曰民生。",
+      "pinyin": "yú wéi ōu měi zhī jìn huà ， fán yǐ sān dà zhǔ yì ： yuē mín zú ， yuē mín quán ， yuē mín shēng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "余维",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "欧美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "进化",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "凡",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "三",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "大",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "主义",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曰",
+          "pos": "zg",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "民族",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曰",
+          "pos": "zg",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "民权",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曰",
+          "pos": "zg",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "民生",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "罗马之亡，民族主义兴，而欧洲各国以独立。",
+      "pinyin": "luó mǎ zhī wáng ， mín zú zhǔ yì xīng ， ér ōu zhōu gè guó yǐ dú lì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "罗马",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "亡",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "民族主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "兴",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "欧洲各国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "独立",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "洎自帝其国，威行专制，在下者不堪其苦，则民权主义起。",
+      "pinyin": "jì zì dì qí guó ， wēi xíng zhuān zhì ， zài xià zhě bù kān qí kǔ ， zé mín quán zhǔ yì qǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "洎",
+          "pos": "g",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自帝",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其国",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "威行",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "专制",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "下者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不堪",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "苦",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "民权主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "起",
+          "pos": "v",
+          "hsk": 1,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "十八世之末，十九世纪之初，专制仆而立宪政体殖焉。",
+      "pinyin": "shí bā shì zhī mò ， shí jiǔ shì jì zhī chū ， zhuān zhì pū ér lì xiàn zhèng tǐ zhí yān 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "十八",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "世之末",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "十九世纪",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "初",
+          "pos": "f",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "专制",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "仆",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "立宪政体",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "殖",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "焉",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "世界开化，人智益蒸，物质发舒，百年锐于千载，经济问题继政治问题之后，则民生主义跃跃然动，二十世纪不得不为民生主义之擅塲时代也。",
+      "pinyin": "shì jiè kāi huà ， rén zhì yì zhēng ， wù zhì fā shū ， bǎi nián ruì yú qiān zài ， jīng jì wèn tí jì zhèng zhì wèn tí zhī hòu ， zé mín shēng zhǔ yì yuè yuè rán dòng ， èr shí shì jì bù dé bù wèi mín shēng zhǔ yì zhī shàn cháng shí dài yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "世界",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "开化",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "智益",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "蒸",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "物质",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "发",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "舒",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "百年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "锐于",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "千载",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "经济",
+          "pos": "n",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "问题",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "继",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "政治",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "问题",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之后",
+          "pos": "f",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "民生主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "跃",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "跃然",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "动",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "二十世纪",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不得不",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "民生主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "擅",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "塲",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时代",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "是三大主义皆基本于民，递嬗变易，而欧美之人种胥冶化焉。",
+      "pinyin": "shì sān dà zhǔ yì jiē jī běn yú mín ， dì shàn biàn yì ， ér ōu měi zhī rén zhǒng xū yě huà yān 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "三大",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "主义",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "皆",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "基本",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "民",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "递嬗",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "变易",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "欧美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "人种",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "胥冶化",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "焉",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "其他旋维于小己大群之间而成为故说者，皆此三者之充满发挥而旁及者耳。",
+      "pinyin": "qí tā xuán wéi yú xiǎo jǐ dà qún zhī jiān ér chéng wéi gù shuō zhě ， jiē cǐ sān zhě zhī chōng mǎn fā huī ér páng jí zhě ěr 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "其他",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "旋",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "维于",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "小己",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大群",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之间",
+          "pos": "f",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "成为",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "故说",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "皆",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "此",
+          "pos": "r",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "三者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "充满",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "发挥",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "旁及",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "耳",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "今者中国以千年专制之毒而不解，异种残之，外邦逼之，民族主义、民权主义殆不可以须臾缓。",
+      "pinyin": "jīn zhě zhōng guó yǐ qiān nián zhuān zhì zhī dú ér bù jiě ， yì zhǒng cán zhī ， wài bāng bī zhī ， mín zú zhǔ yì 、 mín quán zhǔ yì dài bù kě yǐ xū yú huǎn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "今",
+          "pos": "tg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "千年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "专制",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "毒",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "不解",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "异种",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "残",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "外邦",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "逼",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "民族主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "民权主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "殆不",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "须臾",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "缓",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "而民生主义，欧美所虑积重难返者，中国独受病未深，而去之易。",
+      "pinyin": "ér mín shēng zhǔ yì ， ōu měi suǒ lǜ jī zhòng nán fǎn zhě ， zhōng guó dú shòu bìng wèi shēn ， ér qù zhī yì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "民生主义",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "欧美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所虑",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "积重难返",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "独受",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "病",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "未深",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "易",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "是故或于人为既往之陈迹，或于我为方来之大患，要为缮吾群所有事，则不可不幷时而弛张之。",
+      "pinyin": "shì gù huò yú rén wéi jì wǎng zhī chén jì ， huò yú wǒ wèi fāng lái zhī dà huàn ， yào wèi shàn wú qún suǒ yǒu shì ， zé bù kě bù bìng shí ér chí zhāng zhī 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "c",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "或于",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人为",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "既往",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "陈迹",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "或于",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "方来",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "大患",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "为缮",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "吾",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "群",
+          "pos": "q",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "所有",
+          "pos": "b",
+          "hsk": 2,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "不可不",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "幷",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时而",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "弛",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "张之",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "嗟夫！",
+      "pinyin": "jiē fū ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "嗟夫",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "所陟卑者，其所视不远，游五都之市，见美服而求之，忘其身之未称也，又但以当前者为至美。",
+      "pinyin": "suǒ zhì bēi zhě ， qí suǒ shì bù yuǎn ， yóu wǔ dōu zhī shì ， jiàn měi fú ér qiú zhī ， wàng qí shēn zhī wèi chēng yě ， yòu dàn yǐ dāng qián zhě wèi zhì měi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "所",
+          "pos": "u",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "陟",
+          "pos": "g",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "卑",
+          "pos": "ag",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "所视",
+          "pos": "b",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不远",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "游五",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "都",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "市",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "见美服而求之",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "忘",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "其身",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "未",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "称",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "但以",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "当",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "前者",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "至",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "美",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "近时志士舌敝唇枯，惟企强中国以比欧美。",
+      "pinyin": "jìn shí zhì shì shé bì chún kū ， wéi qǐ qiáng zhōng guó yǐ bǐ ōu měi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "近时",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "志士",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "舌",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "敝",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "唇",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "枯",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "惟",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "企强",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "比",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "欧美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "然而欧美强矣，其民实困，观大同盟罢工与无政府党、社会党之日炽，社会革命其将不远。",
+      "pinyin": "rán ér ōu měi qiáng yǐ ， qí mín shí kùn ， guān dà tóng méng bà gōng yǔ wú zhèng fǔ dǎng 、 shè huì dǎng zhī rì chì ， shè huì gé mìng qí jiāng bù yuǎn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "然而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "欧美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "强",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "矣",
+          "pos": "y",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "民实",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "困",
+          "pos": "an",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "观大",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "同盟罢工",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "无政府",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "党",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "社会党",
+          "pos": "nt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之日",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "炽",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "革命",
+          "pos": "vn",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "不远",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "听而无所终",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "摘埴索涂",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "自惑",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "时弊",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "立言",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "而况",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "孤怀",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "宏识",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "远瞩",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "缮群",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "择别",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "取舍",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "惟其",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "最宜",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "群殊",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "民权",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "民族主义",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "自帝",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "威行",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "民权主义",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "立宪政体",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "智益",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "锐于",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "千载",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "民生主义",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "跃然",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "递嬗",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "变易",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "维于",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "小己",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "异种",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "外邦",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "殆不",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "须臾",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "所虑",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "积重难返",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "为缮",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "嗟夫",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "所视",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "志士",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

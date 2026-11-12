@@ -1,0 +1,2938 @@
+{
+  "id": "wikisource_20261112_010",
+  "title": "故乡（鲁迅·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%95%85%E9%84%89",
+  "published_at": "2026-11-12",
+  "level": 6,
+  "category": "文学",
+  "tags": [],
+  "word_count": 527,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "我冒了严寒，回到相隔二千余里，别了二十余年的故鄕去。",
+      "pinyin": "wǒ mào le yán hán ， huí dào xiāng gé èr qiān yú lǐ ， bié le èr shí yú nián de gù xiāng qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "冒",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "严寒",
+          "pos": "a",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "回到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "相隔",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "二千余",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "别",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "二十余年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "时候既然是深冬；",
+      "pinyin": "shí hòu jì rán shì shēn dōng ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "时候",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "既然",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "深冬",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "渐近故鄕时，天气又阴晦了，冷风吹进船舱中，呜呜的响，从篷隙向外一望，苍黄的天底下，远近横着几个萧索的荒村，没有一些活气。",
+      "pinyin": "jiàn jìn gù xiāng shí ， tiān qì yòu yīn huì le ， lěng fēng chuī jìn chuán cāng zhōng ， wū wū de xiǎng ， cóng péng xì xiàng wài yī wàng ， cāng huáng de tiān dǐ xià ， yuǎn jìn héng zhe jǐ gè xiāo suǒ de huāng cūn ， méi yǒu yī xiē huó qì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "渐近",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "ng",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "天气",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "阴晦",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "冷风吹",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "船舱",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "呜呜",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "响",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "从",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "篷",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "隙",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "向",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "外",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一望",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "苍黄",
+          "pos": "z",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "天底下",
+          "pos": "s",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "远近",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "横",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "萧索",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "荒村",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一些",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "活气",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "我的心禁不住悲凉起来了。",
+      "pinyin": "wǒ de xīn jīn bú zhù bēi liáng qǐ lái le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "心",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "禁不住",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "悲凉",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "起来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "阿！",
+      "pinyin": "ā ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "阿",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "这不是我二十年来时时记得的故鄕？",
+      "pinyin": "zhè bú shì wǒ èr shí nián lái shí shí jì de de gù xiāng ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不是",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "二十年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "时时",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "记得",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "我所记得的故鄕全不如此。",
+      "pinyin": "wǒ suǒ jì de de gù xiāng quán bù rú cǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所",
+          "pos": "u",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "记得",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "全",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "如此",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "我的故鄕好得多了。",
+      "pinyin": "wǒ de gù xiāng hǎo dé duō le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "好得多",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "但要我记起他的美丽，说出他的佳处来，却又没有影像，没有言辞了。",
+      "pinyin": "dàn yào wǒ jì qǐ tā de měi lì ， shuō chū tā de jiā chù lái ， què yòu méi yǒu yǐng xiàng ， méi yǒu yán cí le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "但要",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "记起",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "美丽",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "说出",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "佳",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "处来",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "却",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "影像",
+          "pos": "vn",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "言辞",
+          "pos": "nr",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "仿佛也就如此。",
+      "pinyin": "fǎng fú yě jiù rú cǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "仿佛",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "如此",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "于是我自己解释说：故鄕本也如此，——虽然没有进步，也未必有如我所感的悲凉，这只是我自己心情的改变罢了，因为我这次回鄕，本没有什么好心緖。",
+      "pinyin": "yú shì wǒ zì jǐ jiě shì shuō ： gù xiāng běn yě rú cǐ ，—— suī rán méi yǒu jìn bù ， yě wèi bì yǒu rú wǒ suǒ gǎn de bēi liáng ， zhè zhǐ shì wǒ zì jǐ xīn qíng de gǎi biàn bà le ， yīn wèi wǒ zhè cì huí xiāng ， běn méi yǒu shén me hǎo xīn xù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "于是",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "自己",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "解释",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "本",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "如此",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "虽然",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "进步",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "未必",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "有如",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所感",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "悲凉",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "只是",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "自己",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "心情",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "改变",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "罢了",
+          "pos": "y",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "因为",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这次",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "回",
+          "pos": "v",
+          "hsk": 1,
+          "cross": [
+            3
+          ],
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "本",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "什么",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "好心",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "緖",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "我这次是专为了别他而来的。",
+      "pinyin": "wǒ zhè cì shì zhuān wèi le bié tā ér lái de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这次",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "专",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "为了",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "别他",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "我们多年聚族而居的老屋，已经公同卖给别姓了，交屋的期限，只在本年，所以必须赶在正月初一以前，永别了熟识的老屋，而且远离了熟识的故鄕，搬家到我在谋食的异地去。",
+      "pinyin": "wǒ men duō nián jù zú ér jū de lǎo wū ， yǐ jīng gōng tóng mài gěi bié xìng le ， jiāo wū de qī xiàn ， zhǐ zài běn nián ， suǒ yǐ bì xū gǎn zài zhēng yuè chū yī yǐ qián ， yǒng bié le shú shí de lǎo wū ， ér qiě yuǎn lí le shú shí de gù xiāng ， bān jiā dào wǒ zài móu shí de yì dì qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "多年",
+          "pos": "m",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "聚族",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "居",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "老屋",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已经",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "公同",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "卖给",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "别",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "姓",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "交屋",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "期限",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "只",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "本年",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "必须",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "赶",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "正月初一",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以前",
+          "pos": "f",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "永别",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "熟识",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "老屋",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而且",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "远离",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "熟识",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "故",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "鄕",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "搬家",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "谋食",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "异地",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "第二日淸早晨我到了我家的门口了。",
+      "pinyin": "dì èr rì qīng zǎo chén wǒ dào le wǒ jiā de mén kǒu le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "第二日",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "淸",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "早晨",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我家",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "门口",
+          "pos": "s",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "瓦楞上许多枯草的断茎当风抖着，正在说明这老屋难免易主的原因。",
+      "pinyin": "wǎ léng shàng xǔ duō kū cǎo de duàn jīng dāng fēng dǒu zhe ， zhèng zài shuō míng zhè lǎo wū nán miǎn yì zhǔ de yuán yīn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "瓦楞",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "上",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "许多",
+          "pos": "m",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "枯草",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "断茎",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "当",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "风",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "抖",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "正在",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说明",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "老屋",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "难免",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "易主",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "原因",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "几房的本家大约已经搬走了，所以很寂静。",
+      "pinyin": "jǐ fáng de běn jiā dà yuē yǐ jīng bān zǒu le ， suǒ yǐ hěn jì jìng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "几房",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "本家",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大约",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "已经",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "搬走",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "zg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "寂静",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "我到了自家的房外，我的母亲早已迎着出来了，接着便飞出了八岁的姪儿宏儿。",
+      "pinyin": "wǒ dào le zì jiā de fáng wài ， wǒ de mǔ qīn zǎo yǐ yíng zhe chū lái le ， jiē zhe biàn fēi chū le bā suì de zhí ér hóng ér 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "自家",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "房外",
+          "pos": "s",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "母亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "早已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "迎",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "接着",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "飞出",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "八岁",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "姪",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "儿",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "宏",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "儿",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "我的母亲很高兴，但也藏着许多凄凉的神情，教我坐下，歇息，喝茶，且不谈搬家的事。",
+      "pinyin": "wǒ de mǔ qīn hěn gāo xìng ， dàn yě cáng zhe xǔ duō qī liáng de shén qíng ， jiào wǒ zuò xià ， xiē xī ， hē chá ， qiě bù tán bān jiā de shì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "母亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "zg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "高兴",
+          "pos": "b",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "藏",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "许多",
+          "pos": "m",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "凄凉",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "神情",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "教",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "坐下",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "歇息",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "喝茶",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "且",
+          "pos": "c",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "谈",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "搬家",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "宏儿没有见过我，远远的对面站着只是看。",
+      "pinyin": "hóng ér méi yǒu jiàn guò wǒ ， yuǎn yuǎn de duì miàn zhàn zhe zhǐ shì kàn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "宏儿",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "见",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "过",
+          "pos": "ug",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "远远",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "对面",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "站",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "只是",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "看",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "但我们终于谈到搬家的事。",
+      "pinyin": "dàn wǒ men zhōng yú tán dào bān jiā de shì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "终于",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "谈到",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "搬家",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "我说外间的寓所已经租定了，又买了几件家具，此外须将家里所有的木器卖去，再去增添。",
+      "pinyin": "wǒ shuō wài jiān de yù suǒ yǐ jīng zū dìng le ， yòu mǎi le jǐ jiàn jiā jù ， cǐ wài xū jiāng jiā lǐ suǒ yǒu de mù qì mài qù ， zài qù zēng tiān 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "外间",
+          "pos": "f",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "寓所",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已经",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "租定",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "买",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几件",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "家具",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "此外",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "须",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "家里",
+          "pos": "s",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所有",
+          "pos": "b",
+          "hsk": 2,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "木器",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "卖去",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "再",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "增添",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s22",
+      "text": "母亲也说好，而且行李也略已齐集，木器不便搬运的，也小半卖去了，只是收不起钱来。",
+      "pinyin": "mǔ qīn yě shuō hǎo ， ér qiě xíng lǐ yě lüè yǐ qí jí ， mù qì bù biàn bān yùn de ， yě xiǎo bàn mài qù le ， zhǐ shì shōu bù qǐ qián lái 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "母亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说好",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而且",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "行李",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "略",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "齐集",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "木器",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不便",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "搬运",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "小半",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "卖去",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "只是",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "收不起",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "钱",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "严寒",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "相隔",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "二千余",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "二十余年",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "深冬",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "渐近",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "阴晦",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "船舱",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "呜呜",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "苍黄",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "荒村",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "禁不住",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "悲凉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "时时",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "影像",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "罢了",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "好心",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "永别",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "谋食",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "异地",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "瓦楞",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "枯草",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "断茎",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "几房",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "寂静",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "房外",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "凄凉",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "歇息",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "宏儿",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "远远",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "谈到",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "寓所",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "木器",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "增添",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

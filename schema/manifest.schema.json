@@ -8,10 +8,10 @@
   "properties": {
     "id": { "type": "string", "description": "全局唯一，如 news_20261112_001" },
     "title": { "type": "string" },
-    "source": { "type": "string", "description": "来源名，如 BBC 中文" },
+    "source": { "type": "string", "description": "来源名，如 维基文库·公版书" },
     "source_url": { "type": "string", "description": "原文链接，合规署名用" },
     "published_at": { "type": "string", "description": "ISO 日期 YYYY-MM-DD" },
-    "level": { "type": "integer", "minimum": 1, "maximum": 6, "description": "HSK 1-6 难度等级" },
+    "level": { "type": "integer", "minimum": 1, "maximum": 9, "description": "HSK 1-9 难度等级（7 对应高等七—九级）" },
     "category": { "type": "string" },
     "tags": { "type": "array", "items": { "type": "string" } },
     "word_count": { "type": "integer", "minimum": 0 },

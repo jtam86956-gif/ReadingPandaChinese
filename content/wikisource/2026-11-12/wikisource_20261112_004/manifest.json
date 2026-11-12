@@ -1,0 +1,2493 @@
+{
+  "id": "wikisource_20261112_004",
+  "title": "容忍与自由（胡适·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%AE%B9%E5%BF%8D%E8%88%87%E8%87%AA%E7%94%B1",
+  "published_at": "2026-11-12",
+  "level": 5,
+  "category": "社科",
+  "tags": [],
+  "word_count": 486,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "雷先生！",
+      "pinyin": "léi xiān shēng ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "雷先生",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "《自由中国》社的各位朋友！",
+      "pinyin": "《 zì yóu zhōng guó 》 shè de gè wèi péng yǒu ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "社",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "各位朋友",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "我感觉到刚才有位来宾说的话最为恰当。",
+      "pinyin": "wǒ gǎn jué dào gāng cái yǒu wèi lái bīn shuō de huà zuì wèi qià dàng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "感觉",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "刚才",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "有位",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "来宾",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的话",
+          "pos": "u",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "最为",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "恰当",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "夏涛声先生一进门就对我说：“恭喜恭喜！",
+      "pinyin": "xià tāo shēng xiān shēng yī jìn mén jiù duì wǒ shuō ：“ gōng xǐ gōng xǐ ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "夏",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "涛声",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "先生",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "进门",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "对",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "恭喜",
+          "pos": "a",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "恭喜",
+          "pos": "a",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "这个年头能活到十年，是不容易的。",
+      "pinyin": "zhè ge nián tóu néng huó dào shí nián ， shì bù róng yì de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "这个",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "年头",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "能",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "活到",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "十年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "容易",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "”我觉得夏先生这话，很值得作为《自由中国》半月刊创刊十周年的颂词。",
+      "pinyin": "” wǒ jué de xià xiān shēng zhè huà ， hěn zhí de zuò wéi 《 zì yóu zhōng guó 》 bàn yuè kān chuàng kān shí zhōu nián de sòng cí 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "觉得",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "夏",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "先生",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这话",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "zg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "值得",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "作为",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "半月刊",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "创刊",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "十周年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "颂词",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "这个年头能活上十年，的确是不容易的。",
+      "pinyin": "zhè ge nián tóu néng huó shàng shí nián ， dí què shì bù róng yì de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "这个",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "年头",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "能",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "活",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "上",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "十年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的确",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "容易",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "《自由中国》社所以能够维持到今天，可说是雷儆寰先生以及他的一班朋友继续不断努力奋斗的结果。",
+      "pinyin": "《 zì yóu zhōng guó 》 shè suǒ yǐ néng gòu wéi chí dào jīn tiān ， kě shuō shì léi jǐng huán xiān shēng yǐ jí tā de yī bān péng yǒu jì xù bù duàn nǔ lì fèn dòu de jié guǒ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "社",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "能够",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "维持",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "今天",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可说是",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "雷儆寰",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "先生",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "以及",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一班",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朋友",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "继续",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "不断",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "努力奋斗",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "结果",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "今天十周年的纪念会，我们的朋友，如果是来道喜，应该向雷先生道喜；",
+      "pinyin": "jīn tiān shí zhōu nián de jì niàn huì ， wǒ men de péng yǒu ， rú guǒ shì lái dào xǐ ， yīng gāi xiàng léi xiān shēng dào xǐ ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "今天",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "十周年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "纪念会",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "朋友",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如果",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "道喜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "应该",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "向",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "雷先生",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "道喜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "我只是担任了头几年发行人的虚名。",
+      "pinyin": "wǒ zhǐ shì dān rèn le tóu jǐ nián fā xíng rén de xū míng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "只是",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "担任",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "了头",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "几年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "发行人",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "虚名",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "雷先生刚才说：他口袋里有几个文件，没有发表。",
+      "pinyin": "léi xiān shēng gāng cái shuō ： tā kǒu dài lǐ yǒu jǐ gè wén jiàn ， méi yǒu fā biǎo 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "雷先生",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "刚才",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "口袋",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "文件",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "发表",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "我想过去的事情，雷先生可以把它写出来。",
+      "pinyin": "wǒ xiǎng guò qù de shì qíng ， léi xiān shēng kě yǐ bǎ tā xiě chū lái 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "想",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "过去",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "事情",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "雷先生",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "把",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "它",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "写",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "他所提到的两封信，也可以公开的。",
+      "pinyin": "tā suǒ tí dào de liǎng fēng xìn ， yě kě yǐ gōng kāi de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所",
+          "pos": "u",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "提到",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "两封信",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "公开",
+          "pos": "ad",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "记得民国三十八年三四月间，我们几个人在上海；",
+      "pinyin": "jì de mín guó sān shí bā nián sān sì yuè jiān ， wǒ men jǐ gè rén zài shàng hǎi ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "记得",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "民国",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "三十八年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "三",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "四月",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "间",
+          "pos": "f",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "上海",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "那时我们感觉到这个形势演变下去，会把中国分成“自由的”和“被奴役的”两部分，所以我们不能不注意这一个“自由”与“奴役”的分野，同时更不能不注意“自由中国”这个名字。",
+      "pinyin": "nà shí wǒ men gǎn jué dào zhè ge xíng shì yǎn biàn xià qù ， huì bǎ zhōng guó fēn chéng “ zì yóu de ” hé “ bèi nú yì de ” liǎng bù fèn ， suǒ yǐ wǒ men bù néng bù zhù yì zhè yí gè “ zì yóu ” yǔ “ nú yì ” de fēn yě ， tóng shí gèng bù néng bù zhù yì “ zì yóu zhōng guó ” zhè ge míng zì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "那时",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "感觉",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这个",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "形势",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "演变",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "下去",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "会",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "把",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "分成",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "被",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "奴役",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "两",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "部分",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不能不",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "注意",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "奴役",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "分野",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "同时",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "更",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "不能不",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "注意",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这个",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "名字",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "我想，可能那时我们几个人是最早用“自由中国”这个名字的。",
+      "pinyin": "wǒ xiǎng ， kě néng nà shí wǒ men jǐ gè rén shì zuì zǎo yòng “ zì yóu zhōng guó ” zhè ge míng zì de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "想",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可能",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "那时",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "最早",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "用",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这个",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "名字",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "后来几位朋友想到成立一个“自由中国出版社”。",
+      "pinyin": "hòu lái jǐ wèi péng yǒu xiǎng dào chéng lì yí gè “ zì yóu zhōng guó chū bǎn shè ”。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "后来",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "几位",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朋友",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "想到",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "成立",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "一个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出版社",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "当初并没有想要办杂志，只想出一点小册子。",
+      "pinyin": "dāng chū bìng méi yǒu xiǎng yào bàn zá zhì ， zhǐ xiǎng chū yì diǎn xiǎo cè zi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "当初",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "并",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "想要",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "办",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "杂志",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "只想出",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一点",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "小册子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "所以“自由中国出版社”刚成立时，只出了一些小册子性质的刊物。",
+      "pinyin": "suǒ yǐ “ zì yóu zhōng guó chū bǎn shè ” gāng chéng lì shí ， zhǐ chū le yī xiē xiǎo cè zi xìng zhì dì kān wù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "“",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出版社",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "”",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "刚成立",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "只",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一些",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "小册子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "性质",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "刊物",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "我于4月6日离开上海，搭威尔逊总统轮到美国。",
+      "pinyin": "wǒ yú 4 yuè 6 rì lí kāi shàng hǎi ， dā wēi ěr xùn zǒng tǒng lún dào měi guó 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "4",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "月",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "6",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "日",
+          "pos": "m",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "离开",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "上海",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "搭",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "威尔逊",
+          "pos": "nrt",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "总统",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "轮",
+          "pos": "zg",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "在将要离开上海时，他们要我写一篇《自由中国社的宣言》。",
+      "pinyin": "zài jiāng yào lí kāi shàng hǎi shí ， tā men yào wǒ xiě yī piān 《 zì yóu zhōng guó shè de xuān yán 》。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "将要",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "离开",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "上海",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "写",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一篇",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "《",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "自由",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "社",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "宣言",
+          "pos": "nr",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "》",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s22",
+      "text": "后来我就在到檀香山途中，凭我想到的写了四条宗旨，寄回来请大家修改。",
+      "pinyin": "hòu lái wǒ jiù zài dào tán xiāng shān tú zhōng ， píng wǒ xiǎng dào de xiě le sì tiáo zōng zhǐ ， jì huí lái qǐng dà jiā xiū gǎi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "后来",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "檀香山",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "途中",
+          "pos": "s",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "凭",
+          "pos": "p",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "想到",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "写",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "四条",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "宗旨",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "寄",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "回来",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "请",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "大家",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "修改",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "各位朋友",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "来宾",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "恰当",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "涛声",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "恭喜",
+      "hsk": 5,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "半月刊",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "创刊",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "颂词",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "雷儆寰",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "纪念会",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "道喜",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "虚名",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "民国",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "演变",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "分成",
+      "hsk": 5,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "奴役",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "不能不",
+      "hsk": 5,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "分野",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "出版社",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "刊物",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "威尔逊",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "宗旨",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

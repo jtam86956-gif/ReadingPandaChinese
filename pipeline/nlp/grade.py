@@ -121,21 +121,40 @@ def word_cross_levels(word: str) -> list[int]:
     return list(exam["cross"]) if exam and exam["cross"] else []
 
 
-def grade_level(tokens: list) -> int:
-    """根据文章出现的词估算整体难度等级，输出限定 1-6。
+_CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 
-    策略：取文章命中词的最高 HSK 级为上限，再用「高级词占比」微调
-    （避免单个生僻词把整篇拉高）。高等（7）统一映射为 6。
-    无命中时返回 config.DEFAULT_LEVEL。
+# 难度模型：以「难词占比」定级。
+# 难词 = HSK 6 级及以上 + 权威词表未收录的字；对中高级学习者来说，
+# 真正决定阅读难度的是这类词的密度，而不是全文的平均词级
+# （「的/是/我」这类高频词会严重拉低平均值）。
+_HARD_RATIO_BASE = 0.12   # 难词占比 12% 为最低档
+_HARD_RATIO_STEP = 0.06   # 每多 6 个百分点升一级
+_LEVEL_FLOOR = 5          # 本产品面向 HSK 5–9 学习者
+_LEVEL_CEIL = 9
+# 各等级字数上限：超出则上调一级，避免「词不难但读不完」
+_LENGTH_CAP = {5: 800, 6: 1000, 7: 1200, 8: 1500, 9: 2000}
+
+
+def grade_level(tokens: list, word_count: int | None = None) -> int:
+    """按「难词占比」估算文章难度，输出 5-9。
+
+    难词 = HSK 6 级及以上 或 权威词表未收录的单字。占比每增加 6 个百分点升一级，
+    12% 对应最低档 5 级。最后做长度修正：字数超过该等级上限时上调一级。
+
+    为什么不用「HSK 累积覆盖率 ≥ 95%」：近代白话作品（鲁迅、胡适等）的未收录字
+    占 7%–28%，覆盖率几乎不可能达到 95%，会导致全部文章被压到同一档，失去区分度。
     """
-    if not tokens:
+    chars = [c for t in tokens for c in t["w"] if _CJK_RE.fullmatch(c)]
+    if not chars:
         return config.DEFAULT_LEVEL
-    levels = [lv for t in tokens if (lv := word_level(t["w"])) is not None]
-    if not levels:
-        return config.DEFAULT_LEVEL
-    top = max(levels)
-    # 高级词 = HSK 六级及以上（含高等 7）；占比 < 10% 时降一级，避免被偶发生僻词拉高
-    high_ratio = sum(1 for lv in levels if lv >= 6) / len(levels)
-    if top >= 6 and high_ratio < 0.10:
-        top = min(top - 1, 5)
-    return min(top, 6)
+
+    levels = [word_level(c) for c in chars]
+    hard_ratio = sum(1 for lv in levels if lv is None or lv >= 6) / len(chars)
+
+    level = _LEVEL_FLOOR + int(max(0.0, hard_ratio - _HARD_RATIO_BASE) / _HARD_RATIO_STEP)
+    level = min(max(level, _LEVEL_FLOOR), _LEVEL_CEIL)
+
+    chars_total = word_count if word_count is not None else len(chars)
+    while level < _LEVEL_CEIL and chars_total > _LENGTH_CAP.get(level, 10 ** 9):
+        level += 1
+    return level

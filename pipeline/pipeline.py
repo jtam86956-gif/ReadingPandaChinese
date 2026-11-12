@@ -5,7 +5,7 @@ epub 转换 / TTS 音频为可选能力（见 convert / tts 模块），M0 不�
 
 用法：
     python -m pipeline.pipeline run-today --limit 1
-    python -m pipeline.pipeline run-today --limit 3 --source bbc_zh
+    python -m pipeline.pipeline run-today --limit 3 --source wikisource
     python -m pipeline.pipeline rebuild-catalog
 """
 from __future__ import annotations
@@ -17,7 +17,7 @@ import sys
 from datetime import datetime
 
 from pipeline import config, manifest
-from pipeline.recipes import rss_recipe
+from pipeline.recipes import wikisource_recipe
 
 log = logging.getLogger("pipeline")
 
@@ -45,7 +45,11 @@ def run_today(limit: int, source_id: str | None) -> int:
     written = 0
     today = datetime.now().strftime("%Y-%m-%d")
     for source in sources:
-        articles = rss_recipe.fetch_feed(source, limit=limit)
+        if source.get("type") == "wikisource":
+            articles = wikisource_recipe.fetch(source, limit=limit)
+        else:
+            log.error("未知信源类型：%s（仅支持 wikisource 公版内容）", source.get("type"))
+            continue
         for seq, raw in enumerate(articles, start=1):
             try:
                 m = manifest.build_manifest(raw, source["id"], seq)

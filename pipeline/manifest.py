@@ -50,12 +50,13 @@ def build_manifest(raw: dict, source_id: str, seq: int) -> dict:
             "sentence_id": f"s{idx}",
             "text": s,
             "pinyin": pinyin.to_pinyin(s),
-            "translation": None,        # M0 占位：接词典/LLM 后填充
+            "translation": None,        # 不生成译文，保持原文
             "audio_url": None,          # M0 占位：接 TTS 后填充
             "tokens": toks,
         })
 
-    level = grade.grade_level(all_tokens)
+    word_count = _word_count(body)
+    level = grade.grade_level(all_tokens, word_count)
     new_vocab = _collect_new_vocab(all_tokens, level)
 
     return {
@@ -67,30 +68,69 @@ def build_manifest(raw: dict, source_id: str, seq: int) -> dict:
         "level": level,
         "category": raw.get("category", "时事"),
         "tags": [],
-        "word_count": _word_count(body),
+        "word_count": word_count,
         "audio_url": None,
         "content": content,
         "new_vocab": new_vocab,
     }
 
 
+# 人名/地名/专名/非语素/英文不作为生词收录：学习者不需要记音译人名
+_SKIP_POS = {"nr", "ns", "nz", "x", "eng"}
+# 生词判定的最低门槛：4 级以下的词不列为生词
+_MIN_NEW_LEVEL = 4
+
+
+def _chars_all_known(word: str, max_level: int) -> bool:
+    """未收录的复合词按单字拆解：每个字都是已知词且不超过阈值，视为可理解。
+
+    jieba 会把「一个」「别处」这类高频组合切成整词，而 HSK 词表只收了「一」「个」，
+    若不拆字判断，这些常用组合会被误当成生词。
+    """
+    if len(word) < 2:
+        return False
+    levels = []
+    for ch in word:
+        if not _HAS_CJK_RE.search(ch):
+            continue
+        lv = grade.word_level(ch)
+        if lv is None:
+            return False
+        levels.append(lv)
+    return bool(levels) and max(levels) <= max_level
+
+
 def _collect_new_vocab(tokens: list, level: int) -> list:
-    """收集「潜在生词」：HSK 未收录 或 等级 >= 当前文章等级 的词，去重。"""
+    """收集「潜在生词」：超出当前等级的已知词，或真正难以由已知成分解释的词。
+
+    过滤三类噪音：人名/地名等专名、纯标点/英文、以及能由已知单字组合理解的词
+    （如「一个」「别处」）。
+    """
+    threshold = max(level, _MIN_NEW_LEVEL)
     seen = set()
     out = []
     for t in tokens:
         w = t["w"]
-        if w in seen:
+        if w in seen or not _has_cjk(w):
             continue
-        if len(w) < 1:
+        if len(w) < 2:
+            # 只收词、不收字：单个汉字多为词内成分或异体字（淸/靑/煑），
+            # 列进生词本没有学习价值，单字理解交给注音即可
             continue
-        is_new = t.get("hsk") is None or (t.get("hsk") or 0) >= max(level, 4)
-        if is_new and _has_cjk(w):  # 只收含汉字的词，剔除 Author / 标点等噪音
-            seen.add(w)
-            entry = {"w": w, "hsk": t.get("hsk"), "meaning": None, "example": None}
-            if t.get("cross"):
-                entry["cross"] = t["cross"]  # 考试大纲跨级标注，供阅读器标记「多级复现词」
-            out.append(entry)
+        if (t.get("pos") or "") in _SKIP_POS:
+            continue
+        hsk = t.get("hsk")
+        if hsk is None:
+            is_new = not _chars_all_known(w, threshold)
+        else:
+            is_new = hsk >= threshold
+        if not is_new:
+            continue
+        seen.add(w)
+        entry = {"w": w, "hsk": hsk, "meaning": None, "example": None}
+        if t.get("cross"):
+            entry["cross"] = t["cross"]  # 考试大纲跨级标注，供阅读器标记「多级复现词」
+        out.append(entry)
     return out[:40]  # M0 限制数量，避免过长
 
 

@@ -1,0 +1,2714 @@
+{
+  "id": "wikisource_20261112_002",
+  "title": "敬告青年（陈独秀·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%95%AC%E5%91%8A%E9%9D%92%E5%B9%B4",
+  "published_at": "2026-11-12",
+  "level": 9,
+  "category": "社科",
+  "tags": [],
+  "word_count": 524,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "窃以少年老成，中国称人之语也；",
+      "pinyin": "qiè yǐ shào nián lǎo chéng ， zhōng guó chēng rén zhī yǔ yě ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "窃以",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "少年老成",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "中国",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "称",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "语",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "年长而勿衰（Keep young while growing old.），英美人相勗之辞也。",
+      "pinyin": "nián zhǎng ér wù shuāi （Keep young while growing old.）， yīng měi rén xiāng xù zhī cí yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "年长",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "勿",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "衰",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Keep",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "young",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "while",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "growing",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "old",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": ".",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "英美",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "相勗",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "辞",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "此亦东西民族涉想不同现象趋异之一端欤？",
+      "pinyin": "cǐ yì dōng xī mín zú shè xiǎng bù tóng xiàn xiàng qū yì zhī yī duān yú ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "此",
+          "pos": "r",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "亦",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "东西",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "民族",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "涉想",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不同",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "现象",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "趋异",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之一",
+          "pos": "r",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "端",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "欤",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "靑年如初春，如朝日，如百卉之萌动，如利刃之新发于硎，人生最可宝贵之时期也。",
+      "pinyin": "qīng nián rú chū chūn ， rú zhāo rì ， rú bǎi huì zhī méng dòng ， rú lì rèn zhī xīn fā yú xíng ， rén shēng zuì kě bǎo guì zhī shí qī yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "靑",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "如",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "初春",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "朝日",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "百卉",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "萌动",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "利刃",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "新发于硎",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人生",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "最",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "可",
+          "pos": "v",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "宝贵",
+          "pos": "nr",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "时期",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "靑年之于社会，犹新鲜活泼细胞之在人身，新陈代谢，陈腐朽败者无时不在天然淘汰之途，与新鲜活泼者以空间之位置及时间之生命。",
+      "pinyin": "qīng nián zhī yú shè huì ， yóu xīn xiān huó pō xì bāo zhī zài rén shēn ， xīn chén dài xiè ， chén fǔ xiǔ bài zhě wú shí bù zài tiān rán táo tài zhī tú ， yǔ xīn xiān huó pō zhě yǐ kōng jiān zhī wèi zhì jí shí jiān zhī shēng mìng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "靑",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "犹",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "新鲜",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "细胞",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "人身",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "新陈代谢",
+          "pos": "i",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "腐朽",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "败者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "无时",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "天然淘汰",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "途",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "新鲜",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "空间",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "位置",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "及",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "时间",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "生命",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "人身遵新陈代谢之道则健康，陈腐朽败之细胞充塞人身则人身死；",
+      "pinyin": "rén shēn zūn xīn chén dài xiè zhī dào zé jiàn kāng ， chén fǔ xiǔ bài zhī xì bāo chōng sè rén shēn zé rén shēn sǐ ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "人身",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "遵",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "新陈代谢",
+          "pos": "i",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "道",
+          "pos": "q",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "健康",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈腐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朽败",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "细胞",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "充塞",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人身",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "人身",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "死",
+          "pos": "v",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "社会遵新陈代谢之道则隆盛，陈腐朽败之分子充塞社会则社会亡。",
+      "pinyin": "shè huì zūn xīn chén dài xiè zhī dào zé lóng shèng ， chén fǔ xiǔ bài zhī fèn zǐ chōng sè shè huì zé shè huì wáng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "遵",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "新陈代谢",
+          "pos": "i",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "道",
+          "pos": "q",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "隆盛",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈腐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朽败",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "分子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "充塞",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "则",
+          "pos": "d",
+          "hsk": 6,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "亡",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "准斯以谈，吾国之社会，其隆盛耶？",
+      "pinyin": "zhǔn sī yǐ tán ， wú guó zhī shè huì ， qí lóng shèng yé ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "准斯",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "谈",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "吾国",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "社会",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "隆盛",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "耶",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "抑将亡耶？",
+      "pinyin": "yì jiāng wáng yé ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "抑",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "亡",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "耶",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "非予之所忍言者。",
+      "pinyin": "fēi yǔ zhī suǒ rěn yán zhě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "非予之所忍言者",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "彼陈腐朽败之分子，一听其天然之淘汰，雅不愿以如流之岁月，与之说短道长，希冀其脱胎换骨也。",
+      "pinyin": "bǐ chén fǔ xiǔ bài zhī fèn zǐ ， yī tīng qí tiān rán zhī táo tài ， yǎ bù yuàn yǐ rú liú zhī suì yuè ， yǔ zhī shuō duǎn dào cháng ， xī jì qí tuō tāi huàn gǔ yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "彼",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈腐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朽败",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "分子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "听",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "天然",
+          "pos": "b",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "淘汰",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "雅",
+          "pos": "ag",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不愿以如流之",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "岁月",
+          "pos": "t",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "f",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "说短道长",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "希冀",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "脱胎换骨",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "予所欲涕泣陈词者，惟属望于新鲜活泼之靑年，有以自觉而奋斗耳！",
+      "pinyin": "yǔ suǒ yù tì qì chén cí zhě ， wéi zhǔ wàng yú xīn xiān huó pō zhī qīng nián ， yǒu yǐ zì jué ér fèn dòu ěr ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "予",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所欲",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "涕泣",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈词",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "惟",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "属望",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "新鲜",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "靑",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "以",
+          "pos": "p",
+          "hsk": 5,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "自觉",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "奋斗",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "耳",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "自觉者何？",
+      "pinyin": "zì jué zhě hé ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "自觉",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "何",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "自觉其新鲜活泼之价值与责任，而自视不可卑也。",
+      "pinyin": "zì jué qí xīn xiān huó pō zhī jià zhí yǔ zé rèn ， ér zì shì bù kě bēi yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "自觉",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "新鲜",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "价值",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "责任",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "自视",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不可",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "卑",
+          "pos": "ag",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "奋斗者何？",
+      "pinyin": "fèn dòu zhě hé ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "奋斗者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "何",
+          "pos": "r",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "奋其智能，力排陈腐朽败者以去，视之若仇敌，若洪水猛兽，而不可与为隣，而不为其菌毒所传染也。",
+      "pinyin": "fèn qí zhì néng ， lì pái chén fǔ xiǔ bài zhě yǐ qù ， shì zhī ruò chóu dí ， ruò hóng shuǐ měng shòu ， ér bù kě yǔ wèi lín ， ér bù wèi qí jūn dú suǒ chuán rǎn yě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "奋其",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "智能",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "力排",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "腐朽",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "败者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以去",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "视之若",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "仇敌",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "若",
+          "pos": "c",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "洪水猛兽",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "不可",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "隣",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而不为",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "菌",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "毒",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "所",
+          "pos": "u",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "传染",
+          "pos": "vn",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "呜呼！",
+      "pinyin": "wū hū ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "呜呼",
+          "pos": "e",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "吾国之靑年，其果能语于此乎？",
+      "pinyin": "wú guó zhī qīng nián ， qí guǒ néng yǔ yú cǐ hū ？",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "吾国",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "靑",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其果",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "能语",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "于此",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "乎",
+          "pos": "p",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "？",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "吾见夫靑年其年龄，而老年其身体者十之五焉，靑年其年龄或身体，而老年其脑神经者十之九焉。",
+      "pinyin": "wú jiàn fū qīng nián qí nián líng ， ér lǎo nián qí shēn tǐ zhě shí zhī wǔ yān ， qīng nián qí nián líng huò shēn tǐ ， ér lǎo nián qí nǎo shén jīng zhě shí zhī jiǔ yān 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "吾",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "见",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "夫",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "靑",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "年龄",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "老年",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "身体",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "十之五焉",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "靑",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "年龄",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "或",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "身体",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "老年",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "脑神经",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "十之九焉",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "华其发，泽其容，直其腰，广其膈，非不俨然靑年也，及叩其头脑中所涉想所怀抱，无一不与彼陈腐朽败者为一丘之貉。",
+      "pinyin": "huá qí fā ， zé qí róng ， zhí qí yāo ， guǎng qí gé ， fēi bù yǎn rán qīng nián yě ， jí kòu qí tóu nǎo zhōng suǒ shè xiǎng suǒ huái bào ， wú yī bù yǔ bǐ chén fǔ xiǔ bài zhě wèi yī qiū zhī hé 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "华其",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "发",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "泽其容",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "直其",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "腰",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "广其膈",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "非不",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "俨然",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "靑",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "及",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "叩",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "头脑",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "中",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所涉",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "想",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "所",
+          "pos": "u",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "怀抱",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "无一不与彼陈",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "腐朽",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "败者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "一丘之貉",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "其始也未常不新鲜活泼，寖假而为陈腐朽败分子所同化者有之，寖假而畏陈腐朽败分子势力之庞大，瞻顾依回，不敢明目张胆作顽狠之抗斗者有之。",
+      "pinyin": "qí shǐ yě wèi cháng bù xīn xiān huó pō ， jìn jiǎ ér wèi chén fǔ xiǔ bài fèn zǐ suǒ tóng huà zhě yǒu zhī ， jìn jiǎ ér wèi chén fǔ xiǔ bài fèn zǐ shì lì zhī páng dà ， zhān gù yī huí ， bù gǎn míng mù zhāng dǎn zuò wán hěn zhī kàng dòu zhě yǒu zhī 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "其",
+          "pos": "r",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "始",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "未常",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "新鲜",
+          "pos": "ns",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "寖",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "假",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "陈腐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朽败",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "分子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "同化",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "者",
+          "pos": "k",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "寖",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "假",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "畏",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陈腐",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "朽败",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "分子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "势力",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "庞大",
+          "pos": "a",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "瞻顾",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "依回",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不敢",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "明目张胆",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "作",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "顽狠",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "抗斗者",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "之",
+          "pos": "u",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "窃以",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "涉想",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "趋异",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "初春",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "百卉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "萌动",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "利刃",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "天然淘汰",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "朽败",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "吾国",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "非予之所忍言者",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "脱胎换骨",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "所欲",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "涕泣",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "自视",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "奋斗者",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "奋其",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "视之若",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "仇敌",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "呜呼",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "其果",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "能语",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "十之五焉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "脑神经",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "十之九焉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "广其膈",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "俨然",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "所涉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "无一不与彼陈",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "一丘之貉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "瞻顾",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "明目张胆",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "顽狠",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "抗斗者",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

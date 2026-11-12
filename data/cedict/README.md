@@ -1,13 +1,6 @@
 # 词典数据
 
-阅读器「点词查义」与流水线生词释义依赖这里的词典。
+内容红线：**不接入完整词典查询，也不接入外部词典 API**。
 
-## 推荐：CC-CEDICT
-- 开源英汉词典，免费商用，CC BY-SA 3.0 授权。
-- 下载：https://www.mdbg.net/chinese/dictionary?page=cc-cedict
-- 格式：`cedict_ts.u8`（繁体，需转简体入库）。
-
-## 用法（M1 接通）
-- 解析为 SQLite 或 JSON，导入 Meilisearch 索引。
-- `manifest` 中 token 的 `meaning`、`new_vocab[].meaning` 由流水线查本地词典填充
-  （M0 暂为 null，留待 M1）。
+阅读器只做「生词拼音 + 极简释义」，释义来源限定为项目内一个极小的本地词表，
+不抓取、不生成、不附带任何额外注释。本目录目前为空占位。

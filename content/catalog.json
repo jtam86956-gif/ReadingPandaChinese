@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-11-12T14:23:31",
+  "generated_at": "2026-11-12T13:50:56",
   "count": 5,
   "items": [
-    {
-      "id": "bbc_zh_20261112_002",
-      "title": "黄仁勋婚外情：黄乐据称已返回中国，曾多次入境美国、台湾",
-      "source": "BBC 中文",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "时事",
-      "word_count": 1055,
-      "path": "content/bbc_zh/2026-11-12/bbc_zh_20261112_002/manifest.json"
-    },
-    {
-      "id": "bbc_zh_20261112_004",
-      "title": "中美能源大战，如何影响你的帐单？",
-      "source": "BBC 中文",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "时事",
-      "word_count": 4190,
-      "path": "content/bbc_zh/2026-11-12/bbc_zh_20261112_004/manifest.json"
-    },
     {
       "id": "bbc_zh_20261112_003",
       "title": "西班牙大罢工：数万人参与、巴塞罗那爆发警民冲突",
@@ -39,8 +19,28 @@
       "published_at": "2026-11-12",
       "level": 6,
       "category": "时事",
-      "word_count": 1687,
+      "word_count": 1255,
       "path": "content/bbc_zh/2026-11-12/bbc_zh_20261112_001/manifest.json"
+    },
+    {
+      "id": "bbc_zh_20261112_004",
+      "title": "中美能源大战，如何影响你的帐单？",
+      "source": "BBC 中文",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "时事",
+      "word_count": 4190,
+      "path": "content/bbc_zh/2026-11-12/bbc_zh_20261112_004/manifest.json"
+    },
+    {
+      "id": "bbc_zh_20261112_002",
+      "title": "黄仁勋婚外情：黄乐据称已返回中国，曾多次入境美国、台湾",
+      "source": "BBC 中文",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "时事",
+      "word_count": 1103,
+      "path": "content/bbc_zh/2026-11-12/bbc_zh_20261112_002/manifest.json"
     },
     {
       "id": "bbc_zh_20261111_005",

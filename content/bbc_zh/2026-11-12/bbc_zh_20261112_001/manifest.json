@@ -7,7 +7,7 @@
   "level": 6,
   "category": "时事",
   "tags": [],
-  "word_count": 1687,
+  "word_count": 1255,
   "audio_url": null,
   "content": [
     {
@@ -810,17 +810,11 @@
     },
     {
       "sentence_id": "s8",
-      "text": "黄仁勋据报曾与下属发展婚外情",
-      "pinyin": "huáng rén xūn jù bào céng yǔ xià shǔ fā zhǎn hūn wài qíng",
+      "text": "据报出轨女下属",
+      "pinyin": "jù bào chū guǐ nǚ xià shǔ",
       "translation": null,
       "audio_url": null,
       "tokens": [
-        {
-          "w": "黄仁勋",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
         {
           "w": "据",
           "pos": "p",
@@ -834,33 +828,21 @@
           "meaning": null
         },
         {
-          "w": "曾",
-          "pos": "d",
-          "hsk": 4,
+          "w": "出轨",
+          "pos": "v",
+          "hsk": null,
           "meaning": null
         },
         {
-          "w": "与",
-          "pos": "p",
-          "hsk": 4,
+          "w": "女",
+          "pos": "b",
+          "hsk": 1,
           "meaning": null
         },
         {
           "w": "下属",
           "pos": "v",
           "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "发展",
-          "pos": "vn",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "婚外情",
-          "pos": "n",
-          "hsk": null,
           "meaning": null
         }
       ]
@@ -1083,8 +1065,8 @@
     },
     {
       "sentence_id": "s10",
-      "text": "这段关系此前未曾曝光，涉事者为Nvidia医疗保健业务副总裁金伯莉·鲍威尔（Kimberly Powell）。",
-      "pinyin": "zhè duàn guān xì cǐ qián wèi céng bào guāng ， shè shì zhě wèi Nvidia yī liáo bǎo jiàn yè wù fù zǒng cái jīn bó lì · bào wēi ěr （Kimberly Powell）。",
+      "text": "这段关系此前未曾曝光，涉事者为Nvidia医疗保健副总裁金伯莉·鲍威尔（Kimberly Powell）。",
+      "pinyin": "zhè duàn guān xì cǐ qián wèi céng bào guāng ， shè shì zhě wèi Nvidia yī liáo bǎo jiàn fù zǒng cái jīn bó lì · bào wēi ěr （Kimberly Powell）。",
       "translation": null,
       "audio_url": null,
       "tokens": [
@@ -1164,12 +1146,6 @@
           "meaning": null
         },
         {
-          "w": "业务",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
           "w": "副总裁",
           "pos": "n",
           "hsk": null,
@@ -1227,21 +1203,33 @@
     },
     {
       "sentence_id": "s11",
-      "text": "黄仁勋与鲍威尔均已婚。",
-      "pinyin": "huáng rén xūn yǔ bào wēi ěr jūn yǐ hūn 。",
+      "text": "现年48岁的鲍威尔已婚，是黄仁勋的直属下属。",
+      "pinyin": "xiàn nián 48 suì de bào wēi ěr yǐ hūn ， shì huáng rén xūn de zhí shǔ xià shǔ 。",
       "translation": null,
       "audio_url": null,
       "tokens": [
         {
-          "w": "黄仁勋",
-          "pos": "nr",
+          "w": "现年",
+          "pos": "t",
           "hsk": null,
           "meaning": null
         },
         {
-          "w": "与",
-          "pos": "p",
-          "hsk": 4,
+          "w": "48",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "岁",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
           "meaning": null
         },
         {
@@ -1251,15 +1239,45 @@
           "meaning": null
         },
         {
-          "w": "均",
-          "pos": "d",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
           "w": "已婚",
           "pos": "v",
           "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "黄仁勋",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "直属",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "下属",
+          "pos": "v",
+          "hsk": 7,
           "meaning": null
         },
         {
@@ -1632,539 +1650,8 @@
     },
     {
       "sentence_id": "s16",
-      "text": "Nvidia内部的行为守则规定，员工应避免「令自身行为造成利益冲突的情况」，当中包括「私人关系」。",
-      "pinyin": "Nvidia nèi bù de xíng wéi shǒu zé guī dìng ， yuán gōng yīng bì miǎn 「 lìng zì shēn xíng wéi zào chéng lì yì chōng tū de qíng kuàng 」， dāng zhōng bāo kuò 「 sī rén guān xì 」。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "Nvidia",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "内部",
-          "pos": "f",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "行为",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "守则",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "规定",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "员工",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "应",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "避免",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "「",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "令",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "自身",
-          "pos": "r",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "行为",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "造成",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "利益冲突",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "情况",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "」",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "当中",
-          "pos": "s",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "包括",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "「",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "私人关系",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "」",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s17",
-      "text": "公司亦表示，会「迅速调查有关不当行为的举报」。",
-      "pinyin": "gōng sī yì biǎo shì ， huì 「 xùn sù diào chá yǒu guān bù dàng xíng wéi de jǔ bào 」。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "亦",
-          "pos": "d",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "表示",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "会",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "「",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "迅速",
-          "pos": "ad",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "调查",
-          "pos": "vn",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "有关",
-          "pos": "vn",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "不当",
-          "pos": "d",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "行为",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "举报",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "」",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s18",
-      "text": "Nvidia拒绝发表评论，鲍威尔亦未有即时回应查询。",
-      "pinyin": "Nvidia jù jué fā biǎo píng lùn ， bào wēi ěr yì wèi yǒu jí shí huí yìng chá xún 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "Nvidia",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "拒绝",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "发表",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "评论",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "鲍威尔",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "亦",
-          "pos": "d",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "未有",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "即时",
-          "pos": "c",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "回应",
-          "pos": "v",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "查询",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s19",
-      "text": "鲍威尔于2008年加入Nvidia，至2017年底获委任为医疗保健业务副总裁。",
-      "pinyin": "bào wēi ěr yú 2008 nián jiā rù Nvidia， zhì 2017 nián dǐ huò wěi rèn wèi yī liáo bǎo jiàn yè wù fù zǒng cái 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "鲍威尔",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "于",
-          "pos": "p",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "2008",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "加入",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "Nvidia",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "至",
-          "pos": "p",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "2017",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年底",
-          "pos": "t",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "获",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "委任",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "为",
-          "pos": "p",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "医疗保健",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "业务",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "副总裁",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s20",
-      "text": "她经常代表公司出席科技会议及发表演讲。",
-      "pinyin": "tā jīng cháng dài biǎo gōng sī chū xí kē jì huì yì jí fā biǎo yǎn jiǎng 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "她",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "经常",
-          "pos": "d",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "代表",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "出席",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "科技",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "会议",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "及",
-          "pos": "c",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "发表",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "演讲",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s21",
-      "text": "《纽约时报》报导，今年3月鲍威尔出席Nvidia在圣荷西举行的年度开发者大会 GTC。",
-      "pinyin": "《 niǔ yuē shí bào 》 bào dǎo ， jīn nián 3 yuè bào wēi ěr chū xí Nvidia zài shèng hé xī jǔ xíng de nián dù kāi fā zhě dà huì  GTC。",
+      "text": "《纽约时报》报导，今年3月鲍威尔出席Nvidia在圣荷西举行的年度开发者大会GTC。",
+      "pinyin": "《 niǔ yuē shí bào 》 bào dǎo ， jīn nián 3 yuè bào wēi ěr chū xí Nvidia zài shèng hé xī jǔ xíng de nián dù kāi fā zhě dà huì GTC。",
       "translation": null,
       "audio_url": null,
       "tokens": [
@@ -2297,7 +1784,7 @@
       ]
     },
     {
-      "sentence_id": "s22",
+      "sentence_id": "s17",
       "text": "当中三名知悉事件的人士表示，有人在酒店目睹黄仁勋与鲍威尔举止亲暱，其中一人用手机拍下两人互动。",
       "pinyin": "dāng zhōng sān míng zhī xī shì jiàn de rén shì biǎo shì ， yǒu rén zài jiǔ diàn mù dǔ huáng rén xūn yǔ bào wēi ěr jǔ zhǐ qīn nì ， qí zhōng yī rén yòng shǒu jī pāi xià liǎng rén hù dòng 。",
       "translation": null,
@@ -2474,7 +1961,7 @@
       ]
     },
     {
-      "sentence_id": "s23",
+      "sentence_id": "s18",
       "text": "消息人士称，黄仁勋的保安人员留意到拍摄行为后将对方带到一旁，并要求对方签署保密协议。",
       "pinyin": "xiāo xī rén shì chēng ， huáng rén xūn de bǎo ān rén yuán liú yì dào pāi shè xíng wéi hòu jiāng duì fāng dài dào yī páng ， bìng yāo qiú duì fāng qiān shǔ bǎo mì xié yì 。",
       "translation": null,
@@ -2615,7 +2102,7 @@
       ]
     },
     {
-      "sentence_id": "s24",
+      "sentence_id": "s19",
       "text": "BBC无法独立核实事件。",
       "pinyin": "BBC wú fǎ dú lì hé shí shì jiàn 。",
       "translation": null,
@@ -2660,9 +2147,1077 @@
       ]
     },
     {
+      "sentence_id": "s20",
+      "text": "根据Nvidia内部的行为守则，员工应避免「令自身行为造成利益冲突的情况」，当中包括「私人关系」。",
+      "pinyin": "gēn jù Nvidia nèi bù de xíng wéi shǒu zé ， yuán gōng yīng bì miǎn 「 lìng zì shēn xíng wéi zào chéng lì yì chōng tū de qíng kuàng 」， dāng zhōng bāo kuò 「 sī rén guān xì 」。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "根据",
+          "pos": "p",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "Nvidia",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "内部",
+          "pos": "f",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "行为",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "守则",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "员工",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "应",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "避免",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "令",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "自身",
+          "pos": "r",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "行为",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "造成",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "利益冲突",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "情况",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "当中",
+          "pos": "s",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "包括",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "私人关系",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "公司亦表示，会「迅速调查有关不当行为的举报」。",
+      "pinyin": "gōng sī yì biǎo shì ， huì 「 xùn sù diào chá yǒu guān bù dàng xíng wéi de jǔ bào 」。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "亦",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "表示",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "会",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "迅速",
+          "pos": "ad",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "调查",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "有关",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "不当",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "行为",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "举报",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s22",
+      "text": "Nvidia拒绝发表评论，鲍威尔亦未有即时回应查询。",
+      "pinyin": "Nvidia jù jué fā biǎo píng lùn ， bào wēi ěr yì wèi yǒu jí shí huí yìng chá xún 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "Nvidia",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "拒绝",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "发表",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "评论",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "鲍威尔",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "亦",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "未有",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "即时",
+          "pos": "c",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "回应",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "查询",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s23",
+      "text": "鲍威尔于1999 年从事硬件工程师，在2008年加入英伟达，担任业务发展人员，负责高等教育与医疗市场。",
+      "pinyin": "bào wēi ěr yú 1999  nián cóng shì yìng jiàn gōng chéng shī ， zài 2008 nián jiā rù yīng wěi dá ， dān rèn yè wù fā zhǎn rén yuán ， fù zé gāo děng jiào yù yǔ yī liáo shì chǎng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "鲍威尔",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "1999",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "从事",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "硬件",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "工程师",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "2008",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "加入",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "英",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "伟达",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "担任",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "业务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "发展",
+          "pos": "vn",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "人员",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "负责",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "高等教育",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "医疗",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "市场",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s24",
+      "text": "根据Nvidia网站的个人介绍，鲍威尔曾领导公司高等教育和研究业务、策略推广计划，以及英伟达人工智慧实验室等。",
+      "pinyin": "gēn jù Nvidia wǎng zhàn de gè rén jiè shào ， bào wēi ěr céng lǐng dǎo gōng sī gāo děng jiào yù hé yán jiū yè wù 、 cè lüè tuī guǎng jì huà ， yǐ jí yīng wěi dá rén gōng zhì huì shí yàn shì děng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "根据",
+          "pos": "p",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "Nvidia",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "网站",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "个人",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "介绍",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "鲍威尔",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曾",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "领导",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "高等教育",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "研究",
+          "pos": "vn",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "业务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "、",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "策略",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "推广",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "计划",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "以及",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "英",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "伟达",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "人工智慧",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "实验室",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "等",
+          "pos": "u",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
       "sentence_id": "s25",
-      "text": "Nvidia董事会正物色接班人",
-      "pinyin": "Nvidia dǒng shì huì zhèng wù sè jiē bān rén",
+      "text": "她于2016年升任资深董事，领导AI业务开发团队。",
+      "pinyin": "tā yú 2016 nián shēng rèn zī shēn dǒng shì ， lǐng dǎo AI yè wù kāi fā tuán duì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "她",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "于",
+          "pos": "p",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "2016",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "年",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "升任",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "资深",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "董事",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "领导",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "AI",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "业务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "开发",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "团队",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s26",
+      "text": "翌年获委任为医疗保健业务副总裁，代表公司出席科技会议及发表演讲。",
+      "pinyin": "yì nián huò wěi rèn wèi yī liáo bǎo jiàn yè wù fù zǒng cái ， dài biǎo gōng sī chū xí kē jì huì yì jí fā biǎo yǎn jiǎng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "翌年",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "获",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "委任",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "为",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "医疗保健",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "业务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "副总裁",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "代表",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "公司",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "出席",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "科技",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "会议",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "及",
+          "pos": "c",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "发表",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "演讲",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s27",
+      "text": "根据美国商业内幕（Business Insider）报导，鲍威尔曾在播客节目中，形容得到Nvidia的工作是「梦想成真」。",
+      "pinyin": "gēn jù měi guó shāng yè nèi mù （Business Insider） bào dǎo ， bào wēi ěr céng zài bō kè jié mù zhōng ， xíng róng dé dào Nvidia de gōng zuò shì 「 mèng xiǎng chéng zhēn 」。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "根据",
+          "pos": "p",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "美国",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "商业",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "内幕",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "（",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Business",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "Insider",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "）",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "报导",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "鲍威尔",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曾",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "播客",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "节目",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "中",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "形容",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "得到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "Nvidia",
+          "pos": "eng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "工作",
+          "pos": "vn",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "梦想成真",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s28",
+      "text": "Nvidia董事会传物色接班人",
+      "pinyin": "Nvidia dǒng shì huì chuán wù sè jiē bān rén",
       "translation": null,
       "audio_url": null,
       "tokens": [
@@ -2679,12 +3234,9 @@
           "meaning": null
         },
         {
-          "w": "正",
-          "pos": "d",
-          "hsk": 1,
-          "cross": [
-            5
-          ],
+          "w": "传",
+          "pos": "n",
+          "hsk": 3,
           "meaning": null
         },
         {
@@ -2702,7 +3254,7 @@
       ]
     },
     {
-      "sentence_id": "s26",
+      "sentence_id": "s29",
       "text": "随着第二宗婚外情的报导曝光，Nvidia股价在盘后交易中急跌8.6%。",
       "pinyin": "suí zhe dì èr zōng hūn wài qíng de bào dǎo bào guāng ，Nvidia gǔ jià zài pán hòu jiāo yì zhōng jí diē 8.6%。",
       "translation": null,
@@ -2817,7 +3369,7 @@
       ]
     },
     {
-      "sentence_id": "s27",
+      "sentence_id": "s30",
       "text": "Grindr行政总裁乔治·阿里森（George Arison）日前接受BBC北美科技事务记者莉莉·贾马利（Lily Jamali）访问时表示：「黄仁勋是美国最重要的企业家之一。",
       "pinyin": "Grindr xíng zhèng zǒng cái qiáo zhì · ā lǐ sēn （George Arison） rì qián jiē shòu BBC běi měi kē jì shì wù jì zhě lì lì · gǔ mǎ lì （Lily Jamali） fǎng wèn shí biǎo shì ：「 huáng rén xūn shì měi guó zuì zhòng yào de qǐ yè jiā zhī yī 。",
       "translation": null,
@@ -3063,7 +3615,7 @@
       ]
     },
     {
-      "sentence_id": "s28",
+      "sentence_id": "s31",
       "text": "」当时，黄仁勋离开公司的可能性，远不及今天这么高。",
       "pinyin": "」 dāng shí ， huáng rén xūn lí kāi gōng sī de kě néng xìng ， yuǎn bù jí jīn tiān zhè me gāo 。",
       "translation": null,
@@ -3162,7 +3714,7 @@
       ]
     },
     {
-      "sentence_id": "s29",
+      "sentence_id": "s32",
       "text": "这是因为黄仁勋的接班人选寥寥可数。",
       "pinyin": "zhè shì yīn wèi huáng rén xūn de jiē bān rén xuǎn liáo liáo kě shǔ 。",
       "translation": null,
@@ -3219,7 +3771,7 @@
       ]
     },
     {
-      "sentence_id": "s30",
+      "sentence_id": "s33",
       "text": "其中一个人选是 Nvidia 共同创办人克里斯·马拉科夫斯基（Chris Malachowsky）。",
       "pinyin": "qí zhōng yí gè rén xuǎn shì  Nvidia  gòng tóng chuàng bàn rén kè lǐ sī · mǎ lā kē fū sī jī （Chris Malachowsky）。",
       "translation": null,
@@ -3324,7 +3876,7 @@
       ]
     },
     {
-      "sentence_id": "s31",
+      "sentence_id": "s34",
       "text": "他与黄仁勋一样，自Nvidia创立以来便加入公司，多年来一直负责产品工程工作，也是公司内唯一一名资历与黄仁勋相若的高层。",
       "pinyin": "tā yǔ huáng rén xūn yī yàng ， zì Nvidia chuàng lì yǐ lái biàn jiā rù gōng sī ， duō nián lái yì zhí fù zé chǎn pǐn gōng chéng gōng zuò ， yě shì gōng sī nèi wéi yī yī míng zī lì yǔ huáng rén xūn xiāng ruò de gāo céng 。",
       "translation": null,
@@ -3537,7 +4089,7 @@
       ]
     },
     {
-      "sentence_id": "s32",
+      "sentence_id": "s35",
       "text": "而黄仁勋的子女虽同在Nvidia担任管理职位，但他们相对年轻，经验尚浅。",
       "pinyin": "ér huáng rén xūn de zǐ nǚ suī tóng zài Nvidia dān rèn guǎn lǐ zhí wèi ， dàn tā men xiāng duì nián qīng ， jīng yàn shàng qiǎn 。",
       "translation": null,
@@ -3676,7 +4228,7 @@
       ]
     },
     {
-      "sentence_id": "s33",
+      "sentence_id": "s36",
       "text": "若要永久取代黄仁勋，公司很可能需要从外部聘请人选。",
       "pinyin": "ruò yào yǒng jiǔ qǔ dài huáng rén xūn ， gōng sī hěn kě néng xū yào cóng wài bù pìn qǐng rén xuǎn 。",
       "translation": null,
@@ -3778,7 +4330,7 @@
       ]
     },
     {
-      "sentence_id": "s34",
+      "sentence_id": "s37",
       "text": "《彭博》周三（11日）援引知情人士透露，Nvidia董事会正与一家外部公司合作，寻找黄仁勋的潜在继任者；",
       "pinyin": "《 péng bó 》 zhōu sān （11 rì ） yuán yǐn zhī qíng rén shì tòu lù ，Nvidia dǒng shì huì zhèng yǔ yī jiā wài bù gōng sī hé zuò ， xún zhǎo huáng rén xūn de qián zài jì rèn zhě ；",
       "translation": null,
@@ -3961,7 +4513,7 @@
       ]
     },
     {
-      "sentence_id": "s35",
+      "sentence_id": "s38",
       "text": "董事会也在考虑任命一位临时首席执行长。",
       "pinyin": "dǒng shì huì yě zài kǎo lǜ rèn mìng yī wèi lín shí shǒu xí zhí xíng zhǎng 。",
       "translation": null,
@@ -4030,7 +4582,7 @@
       ]
     },
     {
-      "sentence_id": "s36",
+      "sentence_id": "s39",
       "text": "英伟达未有对此置评。",
       "pinyin": "yīng wěi dá wèi yǒu duì cǐ zhì píng 。",
       "translation": null,
@@ -4063,2414 +4615,6 @@
         {
           "w": "置评",
           "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s37",
-      "text": "黄乐据称已返回中国",
-      "pinyin": "huáng lè jù chēng yǐ fǎn huí zhōng guó",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "据称",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "已",
-          "pos": "d",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "返回",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s38",
-      "text": "《彭博》周四（12日）再援引知情人士透露，卷入婚外情、被指涉入中国间谍活动的女子黄乐（Alice Huang Le）已经返回中国。",
-      "pinyin": "《 péng bó 》 zhōu sì （12 rì ） zài yuán yǐn zhī qíng rén shì tòu lù ， juǎn rù hūn wài qíng 、 bèi zhǐ shè rù zhōng guó jiàn dié huó dòng de nǚ zǐ huáng lè （Alice Huang Le） yǐ jīng fǎn huí zhōng guó 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "《",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "彭博",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "》",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "周四",
-          "pos": "t",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "（",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "12",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "日",
-          "pos": "m",
-          "hsk": 1,
-          "cross": [
-            4
-          ],
-          "meaning": null
-        },
-        {
-          "w": "）",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "再",
-          "pos": "d",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "援引",
-          "pos": "vn",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "知情",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "人士",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "透露",
-          "pos": "v",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "卷入",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "婚外情",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "被",
-          "pos": "p",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "指涉",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "入",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "间谍活动",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "女子",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "（",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "Alice",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "Huang",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "Le",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "）",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "已经",
-          "pos": "d",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "返回",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s39",
-      "text": "该知情人士透露，黄乐目前在北京居住，安全部门对此知情。",
-      "pinyin": "gāi zhī qíng rén shì tòu lù ， huáng lè mù qián zài běi jīng jū zhù ， ān quán bù mén duì cǐ zhī qíng 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "该",
-          "pos": "r",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "知情",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "人士",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "透露",
-          "pos": "v",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "目前",
-          "pos": "t",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "在",
-          "pos": "p",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "北京",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "居住",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "安全部门",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "对此",
-          "pos": "d",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "知情",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s40",
-      "text": "但表示不清楚她何时、为何前往北京，以及她可能在从事什么活动。",
-      "pinyin": "dàn biǎo shì bù qīng chǔ tā hé shí 、 wèi hé qián wǎng běi jīng ， yǐ jí tā kě néng zài cóng shì shén me huó dòng 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "但",
-          "pos": "c",
-          "hsk": 2,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "表示",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "不",
-          "pos": "d",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "清楚",
-          "pos": "a",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "她",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "何时",
-          "pos": "c",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "为何",
-          "pos": "r",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "前往",
-          "pos": "t",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "北京",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "以及",
-          "pos": "c",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "她",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "可能",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "在",
-          "pos": "p",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "从事",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "什么",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "活动",
-          "pos": "vn",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s41",
-      "text": "黄乐（Alice Huang）是中国公民，湖南人，曾赴香港浸会大学攻读硕士，其后取得香港永久居民资格。",
-      "pinyin": "huáng lè （Alice Huang） shì zhōng guó gōng mín ， hú nán rén ， céng fù xiāng gǎng jìn huì dà xué gōng dú shuò shì ， qí hòu qǔ dé xiāng gǎng yǒng jiǔ jū mín zī gé 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "（",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "Alice",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "Huang",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "）",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "是",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "公民",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "湖南人",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "曾",
-          "pos": "d",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "赴",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "香港浸会大学",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "攻读",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "硕士",
-          "pos": "n",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "其后",
-          "pos": "c",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "取得",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "香港",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "永久",
-          "pos": "d",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "居民",
-          "pos": "n",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "资格",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s42",
-      "text": "据《纽约时报》与《金融时报》报导，她在2023年3月至11月间出任新加坡数据中心公司Megaspeed的董事总经理，后来自称行政总裁。",
-      "pinyin": "jù 《 niǔ yuē shí bào 》 yǔ 《 jīn róng shí bào 》 bào dǎo ， tā zài 2023 nián 3 yuè zhì 11 yuè jiān chū rèn xīn jiā pō shù jù zhōng xīn gōng sī Megaspeed de dǒng shì zǒng jīng lǐ ， hòu lái zì chēng xíng zhèng zǒng cái 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "据",
-          "pos": "p",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "《",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "纽约时报",
-          "pos": "nt",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "》",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "与",
-          "pos": "p",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "《",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "金融时报",
-          "pos": "nz",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "》",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "报导",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "她",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "在",
-          "pos": "p",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "2023",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "3",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "月",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "至",
-          "pos": "p",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "11",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "月间",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "出任",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "新加坡",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "数据中心",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "Megaspeed",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "董事",
-          "pos": "n",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "总经理",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "后来",
-          "pos": "t",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "自称",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "行政",
-          "pos": "n",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "总裁",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s43",
-      "text": "该公司由中国游戏公司第七大道分拆而来，大量采购辉达GPU，并将运算能力出租给阿里巴巴等中国企业，因此引起美方对规避出口管制的调查。",
-      "pinyin": "gāi gōng sī yóu zhōng guó yóu xì gōng sī dì qī dà dào fēn chāi ér lái ， dà liàng cǎi gòu huī dá GPU， bìng jiāng yùn suàn néng lì chū zū gěi ā lǐ bā bā děng zhōng guó qǐ yè ， yīn cǐ yǐn qǐ měi fāng duì guī bì chū kǒu guǎn zhì de diào chá 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "该",
-          "pos": "r",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "由",
-          "pos": "p",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "游戏",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "第七",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "大道",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "分拆",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "而",
-          "pos": "c",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "来",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "大量",
-          "pos": "n",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "采购",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "辉达",
-          "pos": "a",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "GPU",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "并",
-          "pos": "c",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "将",
-          "pos": "d",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "运算",
-          "pos": "vn",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "能力",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "出租",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "给",
-          "pos": "p",
-          "hsk": 1,
-          "cross": [
-            2
-          ],
-          "meaning": null
-        },
-        {
-          "w": "阿里巴巴",
-          "pos": "nrt",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "等",
-          "pos": "u",
-          "hsk": 1,
-          "cross": [
-            4
-          ],
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "企业",
-          "pos": "n",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "因此",
-          "pos": "c",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "引起",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "美方",
-          "pos": "q",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "对",
-          "pos": "p",
-          "hsk": 1,
-          "cross": [
-            4
-          ],
-          "meaning": null
-        },
-        {
-          "w": "规避",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "出口",
-          "pos": "vn",
-          "hsk": 2,
-          "cross": [
-            5
-          ],
-          "meaning": null
-        },
-        {
-          "w": "管制",
-          "pos": "vn",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "调查",
-          "pos": "vn",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s44",
-      "text": "据港媒《香港01》在香港、新加坡及内地查册发现，今年中黄乐注册了数间香港公司，同时是「南京领行科技」（T3出行）的董事。",
-      "pinyin": "jù gǎng méi 《 xiāng gǎng 01》 zài xiāng gǎng 、 xīn jiā pō jí nèi dì chá cè fā xiàn ， jīn nián zhōng huáng lè zhù cè le shù jiān xiāng gǎng gōng sī ， tóng shí shì 「 nán jīng lǐng xíng kē jì 」（T3 chū xíng ） de dǒng shì 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "据",
-          "pos": "p",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "港",
-          "pos": "j",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "媒",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "《",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "香港",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "01",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "》",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "在",
-          "pos": "p",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "香港",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "新加坡",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "及",
-          "pos": "c",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "内地",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "查册",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "发现",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "今年",
-          "pos": "t",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "中黄乐",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "注册",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "了",
-          "pos": "ul",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "数间",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "香港",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "同时",
-          "pos": "c",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "是",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "「",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "南京",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "领行",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "科技",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "」",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "（",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "T3",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "出行",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "）",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "董事",
-          "pos": "n",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s45",
-      "text": "该公司今年向港交所递交上市申请，但遭拒绝。",
-      "pinyin": "gāi gōng sī jīn nián xiàng gǎng jiāo suǒ dì jiāo shàng shì shēn qǐng ， dàn zāo jù jué 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "该",
-          "pos": "r",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "公司",
-          "pos": "n",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "今年",
-          "pos": "t",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "向",
-          "pos": "p",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "港交所",
-          "pos": "j",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "递交",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "上市",
-          "pos": "ns",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "申请",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "但",
-          "pos": "c",
-          "hsk": 2,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "遭",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "拒绝",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s46",
-      "text": "美国有线电视新闻网（CNN）的调查报导则称，黄乐自2017年起曾持中国护照进入美国十次。",
-      "pinyin": "měi guó yǒu xiàn diàn shì xīn wén wǎng （CNN） de diào chá bào dǎo zé chēng ， huáng lè zì 2017 nián qǐ céng chí zhōng guó hù zhào jìn rù měi guó shí cì 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "美国有线电视新闻网",
-          "pos": "nt",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "（",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "CNN",
-          "pos": "eng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "）",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "调查",
-          "pos": "vn",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "报导",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "则",
-          "pos": "d",
-          "hsk": 6,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "称",
-          "pos": "v",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "自",
-          "pos": "p",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "2017",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "起",
-          "pos": "v",
-          "hsk": 1,
-          "cross": [
-            5
-          ],
-          "meaning": null
-        },
-        {
-          "w": "曾",
-          "pos": "d",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "持",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "中国",
-          "pos": "ns",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "护照",
-          "pos": "n",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "进入",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "美国",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "十次",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s47",
-      "text": "黄乐被指多次以香港居民身分入境台湾。",
-      "pinyin": "huáng lè bèi zhǐ duō cì yǐ xiāng gǎng jū mín shēn fèn rù jìng tái wān 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "被",
-          "pos": "p",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "指",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "多次",
-          "pos": "m",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "以",
-          "pos": "p",
-          "hsk": 5,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "香港",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "居民",
-          "pos": "n",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "身分",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "入境",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "台湾",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s48",
-      "text": "台湾内政部长刘世芳表示，移民署已废止黄乐的入出境许可证，不可能再来台。",
-      "pinyin": "tái wān nèi zhèng bù zhǎng liú shì fāng biǎo shì ， yí mín shǔ yǐ fèi zhǐ huáng lè de rù chū jìng xǔ kě zhèng ， bù kě néng zài lái tái 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "台湾",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "内政部长",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "刘世芳",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "表示",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "移民",
-          "pos": "n",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "署",
-          "pos": "ng",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "已",
-          "pos": "d",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "废止",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "入出境",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "许可证",
-          "pos": "nr",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "不",
-          "pos": "d",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "可能",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "再",
-          "pos": "d",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "来",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "台",
-          "pos": "q",
-          "hsk": 3,
-          "cross": [
-            5
-          ],
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s49",
-      "text": "台湾陆委会主委邱垂正表示，黄乐于2024年、2025年都有入境台湾的纪录，2024年有3次、2025年有5次，共有8次，今年则没有纪录。",
-      "pinyin": "tái wān lù wěi huì zhǔ wěi qiū chuí zhèng biǎo shì ， huáng lè yú 2024 nián 、2025 nián dōu yǒu rù jìng tái wān de jì lù ，2024 nián yǒu 3 cì 、2025 nián yǒu 5 cì ， gòng yǒu 8 cì ， jīn nián zé méi yǒu jì lù 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "台湾",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "陆委会",
-          "pos": "nt",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "主委",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "邱垂正",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "表示",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "黄",
-          "pos": "a",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "乐于",
-          "pos": "v",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "2024",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "2025",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "都",
-          "pos": "d",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "有",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "入境",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "台湾",
-          "pos": "ns",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "纪录",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "2024",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "有",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "3",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "次",
-          "pos": "t",
-          "hsk": 1,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "2025",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "年",
-          "pos": "m",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "有",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "5",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "次",
-          "pos": "t",
-          "hsk": 1,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "共有",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "8",
-          "pos": "m",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "次",
-          "pos": "t",
-          "hsk": 1,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "今年",
-          "pos": "t",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "则",
-          "pos": "d",
-          "hsk": 6,
-          "cross": [
-            7,
-            9
-          ],
-          "meaning": null
-        },
-        {
-          "w": "没有",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "纪录",
-          "pos": "n",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s50",
-      "text": "他指出，现在知道她的身分后，将依法管制其入境许可；",
-      "pinyin": "tā zhǐ chū ， xiàn zài zhī dào tā de shēn fèn hòu ， jiāng yī fǎ guǎn zhì qí rù jìng xǔ kě ；",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "他",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "指出",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "现在",
-          "pos": "t",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "知道",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "她",
-          "pos": "r",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "身分",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "后",
-          "pos": "f",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "将",
-          "pos": "d",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "依法",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "管制",
-          "pos": "vn",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "其",
-          "pos": "r",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "入境",
-          "pos": "n",
-          "hsk": 6,
-          "meaning": null
-        },
-        {
-          "w": "许可",
-          "pos": "nr",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "；",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s51",
-      "text": "针对陆港澳人士申请来台会加强审核，提高把关强度。",
-      "pinyin": "zhēn duì lù gǎng ào rén shì shēn qǐng lái tái huì jiā qiáng shěn hé ， tí gāo bǎ guān qiáng dù 。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "针对",
-          "pos": "p",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "陆",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "港澳",
-          "pos": "j",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "人士",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "申请",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "来",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "台",
-          "pos": "q",
-          "hsk": 3,
-          "cross": [
-            5
-          ],
-          "meaning": null
-        },
-        {
-          "w": "会",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "加强",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "审核",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "提高",
-          "pos": "v",
-          "hsk": 2,
-          "meaning": null
-        },
-        {
-          "w": "把关",
-          "pos": "v",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "强度",
-          "pos": "n",
-          "hsk": 5,
-          "meaning": null
-        },
-        {
-          "w": "。",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        }
-      ]
-    },
-    {
-      "sentence_id": "s52",
-      "text": "对于黄乐从事间谍活动的说法，中国外交部坚决否认相关指控，批评是「捕风捉影、污蔑抹黑」。",
-      "pinyin": "duì yú huáng lè cóng shì jiàn dié huó dòng de shuō fǎ ， zhōng guó wài jiāo bù jiān jué fǒu rèn xiāng guān zhǐ kòng ， pī píng shì 「 bǔ fēng zhuō yǐng 、 wū miè mǒ hēi 」。",
-      "translation": null,
-      "audio_url": null,
-      "tokens": [
-        {
-          "w": "对于",
-          "pos": "p",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "黄乐",
-          "pos": "nr",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "从事",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "间谍活动",
-          "pos": "n",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "的",
-          "pos": "uj",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "说法",
-          "pos": "v",
-          "hsk": 4,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "中国外交部",
-          "pos": "nt",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "坚决",
-          "pos": "ad",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "否认",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "相关",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "指控",
-          "pos": "vn",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "，",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "批评",
-          "pos": "v",
-          "hsk": 3,
-          "meaning": null
-        },
-        {
-          "w": "是",
-          "pos": "v",
-          "hsk": 1,
-          "meaning": null
-        },
-        {
-          "w": "「",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "捕风捉影",
-          "pos": "i",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "、",
-          "pos": "x",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "污蔑",
-          "pos": "vn",
-          "hsk": 7,
-          "meaning": null
-        },
-        {
-          "w": "抹黑",
-          "pos": "v",
-          "hsk": null,
-          "meaning": null
-        },
-        {
-          "w": "」",
-          "pos": "x",
           "hsk": null,
           "meaning": null
         },

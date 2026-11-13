@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>熊猫新闻 · 公版精读</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <button id="back" class="ghost" hidden>← 返回目录</button>
+  <h1 id="brand">熊猫新闻 <span class="sub">公版精读</span></h1>
+  <label class="toggle"><input type="checkbox" id="ruby-all"> 全文注音</label>
+</header>
+
+<main>
+  <section id="catalog" class="catalog"><p class="hint">加载中…</p></section>
+
+  <article id="reader" hidden>
+    <h2 id="title"></h2>
+    <div class="meta" id="meta"></div>
+    <div class="body" id="body"></div>
+    <section class="vocab" id="vocab"></section>
+  </article>
+</main>
+
+<div id="pop" class="pop" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

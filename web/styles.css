@@ -1,0 +1,235 @@
+:root {
+  --ink: #1c1f23;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --bg: #fbfaf7;
+  --accent: #b45309;
+  --new: #c2410c;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  background: rgba(251, 250, 247, .92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+
+.topbar h1 {
+  flex: 1;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: .04em;
+}
+
+.topbar .sub {
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 13px;
+  margin-left: 6px;
+}
+
+.ghost {
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.toggle {
+  font-size: 13px;
+  color: var(--muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  user-select: none;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 24px 20px 96px;
+}
+
+.hint { color: var(--muted); }
+
+/* ---------- 目录 ---------- */
+.day {
+  margin-bottom: 28px;
+}
+
+.day h3 {
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 500;
+  letter-spacing: .08em;
+  margin: 0 0 10px;
+}
+
+.item {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: border-color .15s, transform .15s;
+}
+
+.item:hover { border-color: #d1d5db; transform: translateY(-1px); }
+
+.item .name { flex: 1; font-size: 15px; }
+
+.item .cat {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.level {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  border: 1px solid #f3d9c0;
+  background: #fdf3e9;
+  border-radius: 6px;
+  padding: 1px 7px;
+  white-space: nowrap;
+}
+
+/* ---------- 正文 ---------- */
+#title {
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 8px 0 10px;
+  font-family: "Songti SC", "SimSun", serif;
+}
+
+.meta {
+  font-size: 13px;
+  color: var(--muted);
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+
+.meta a { color: var(--muted); }
+
+.body {
+  font-family: "Songti SC", "SimSun", serif;
+  font-size: 20px;
+  line-height: 2.35;
+  letter-spacing: .02em;
+}
+
+.body p {
+  margin: 0 0 20px;
+  text-indent: 2em;
+}
+
+.w { cursor: pointer; border-radius: 3px; }
+
+.w.new {
+  border-bottom: 1px solid rgba(194, 65, 12, .35);
+}
+
+.w.new:hover { background: #fff3ea; }
+
+ruby { ruby-position: over; }
+
+rt {
+  font-family: -apple-system, sans-serif;
+  font-size: .46em;
+  color: #9aa0a6;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+/* ---------- 生词表 ---------- */
+.vocab {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.vocab h3 {
+  font-size: 14px;
+  margin: 0 0 12px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.vocab ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.vocab li {
+  font-size: 14px;
+  padding: 5px 10px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.vocab li .g {
+  display: block;
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+/* ---------- 浮层 ---------- */
+.pop {
+  position: absolute;
+  z-index: 20;
+  min-width: 120px;
+  max-width: 240px;
+  padding: 10px 12px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .10);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.pop .py {
+  color: var(--accent);
+  font-size: 13px;
+}
+
+.pop .gl {
+  color: var(--ink);
+  margin-top: 2px;
+}
+
+.pop .none { color: var(--muted); font-size: 13px; }

@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-13T17:17:16",
-  "count": 19,
+  "generated_at": "2026-11-14T16:45:56",
+  "count": 24,
   "items": [
+    {
+      "id": "wikisource_20261114_003",
+      "title": "差不多先生传（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 5,
+      "category": "文学",
+      "word_count": 515,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_003/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_005",
+      "title": "孔乙己（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 7,
+      "category": "文学",
+      "word_count": 523,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_005/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_004",
+      "title": "民报发刊词（孙文·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_004/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_002",
+      "title": "文学改良刍议（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 9,
+      "category": "社科",
+      "word_count": 490,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_001",
+      "title": "背影（朱自清·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 6,
+      "category": "文学",
+      "word_count": 509,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_001/manifest.json"
+    },
     {
       "id": "wikisource_20261113_002",
       "title": "容忍与自由（胡适·节选）",

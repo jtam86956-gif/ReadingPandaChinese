@@ -1,0 +1,2852 @@
+{
+  "id": "wikisource_20261114_005",
+  "title": "孔乙己（鲁迅·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%AD%94%E4%B9%99%E5%B7%B1",
+  "published_at": "2026-11-14",
+  "level": 7,
+  "category": "文学",
+  "tags": [],
+  "word_count": 523,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "鲁镇的酒店的格局，是和别处不同的：都是当街一个曲尺形的大柜台，柜里面豫备着热水，可以随时温酒。",
+      "pinyin": "lǔ zhèn de jiǔ diàn de gé jú ， shì hé bié chù bù tóng de ： dōu shì dāng jiē yí gè qū chǐ xíng de dà guì tái ， guì lǐ miàn yù bèi zhe rè shuǐ ， kě yǐ suí shí wēn jiǔ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "鲁镇",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "酒店",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "格局",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "别处",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不同",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "都",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "当街",
+          "pos": "s",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "曲尺形",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "大",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "柜台",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "柜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "里面",
+          "pos": "f",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "豫",
+          "pos": "j",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "备",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "热水",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "随时",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "温酒",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "做工的人，傍午傍晚散了工，每每花四文铜钱，买一碗酒——这是二十多年前的事，现在每碗要涨到十文，——靠柜外站着，热热的喝了休息；",
+      "pinyin": "zuò gōng de rén ， bàng wǔ bàng wǎn sàn le gōng ， měi měi huā sì wén tóng qián ， mǎi yī wǎn jiǔ —— zhè shì èr shí duō nián qián de shì ， xiàn zài měi wǎn yào zhǎng dào shí wén ，—— kào guì wài zhàn zhe ， rè rè de hē le xiū xī ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "做工",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "傍午",
+          "pos": "t",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "傍晚",
+          "pos": "t",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "散",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "工",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "每每",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "花",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "四文",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "铜钱",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "买",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一碗",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "酒",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "二十多年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "前",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "现在",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "每碗",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "涨到",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "十文",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "—",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "靠",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "柜外",
+          "pos": "s",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "站",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "热热",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "喝",
+          "pos": "vg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "休息",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "倘肯多花一文，便可以买一碟盐煑笋，或者茴香豆，做下酒物了，如果出到了十几文，那就能买一样荤菜，但这些顾客，多是短衣帮，大抵没有这样阔绰。",
+      "pinyin": "tǎng kěn duō huā yī wén ， biàn kě yǐ mǎi yī dié yán zhǔ sǔn ， huò zhě huí xiāng dòu ， zuò xià jiǔ wù le ， rú guǒ chū dào le shí jǐ wén ， nà jiù néng mǎi yī yàng hūn cài ， dàn zhè xiē gù kè ， duō shì duǎn yī bāng ， dà dǐ méi yǒu zhè yàng kuò chuò 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "倘肯",
+          "pos": "c",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "多",
+          "pos": "m",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "花",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一文",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "买",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一碟",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "盐",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "煑",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "笋",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "或者",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "茴香豆",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "做",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "下酒",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "物",
+          "pos": "ng",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "如果",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "出到",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "十几",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "文",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "那",
+          "pos": "r",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "能",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "买",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一样",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "荤菜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "这些",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "顾客",
+          "pos": "nr",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "多",
+          "pos": "m",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "短衣",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "帮",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大抵",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这样",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "阔绰",
+          "pos": "a",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "只有穿长衫的，才踱进店面隔壁的房子里，要酒要菜，慢慢地坐喝。",
+      "pinyin": "zhǐ yǒu chuān cháng shān de ， cái duó jìn diàn miàn gé bì de fáng zi lǐ ， yào jiǔ yào cài ， màn màn dì zuò hē 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "只有",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "穿",
+          "pos": "zg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "长衫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "才",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "踱",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "店面",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "隔壁",
+          "pos": "s",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "房子",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "酒",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "菜",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "慢慢",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "地",
+          "pos": "uv",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "坐",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "喝",
+          "pos": "vg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "我从十二岁起，便在镇口的咸亨酒店里当伙计，掌柜说，样子太儍，怕侍候不了长衫主顾，就在外面做点事罢。",
+      "pinyin": "wǒ cóng shí èr suì qǐ ， biàn zài zhèn kǒu de xián hēng jiǔ diàn lǐ dāng huǒ jì ， zhǎng guì shuō ， yàng zi tài shǎ ， pà shì hòu bù liǎo cháng shān zhǔ gù ， jiù zài wài miàn zuò diǎn shì bà 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "从",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "十二岁",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "起",
+          "pos": "v",
+          "hsk": 1,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "镇口",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "咸亨",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "酒店",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "当",
+          "pos": "p",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "伙计",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "掌柜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "样子",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "太",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "儍",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "怕",
+          "pos": "v",
+          "hsk": 2,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "侍候",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "不了",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "长衫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "主顾",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "外面",
+          "pos": "f",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "做点事",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "罢",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "外面的短衣主顾，虽然容易说话，但唠唠叨叨缠夹不淸的也很不少。",
+      "pinyin": "wài miàn de duǎn yī zhǔ gù ， suī rán róng yì shuō huà ， dàn láo láo dāo dāo chán jiā bù qīng de yě hěn bù shǎo 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "外面",
+          "pos": "f",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "短衣",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "主顾",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "虽然",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "容易",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "说话",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "唠唠叨叨",
+          "pos": "z",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "缠夹",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "淸",
+          "pos": "y",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不少",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "他们往往要亲眼看着黄酒从坛子里舀出，看过壶子底里有水没有，又亲看将壶子放在热水里，然后放心：在这严重监督之下，羼水也很为难。",
+      "pinyin": "tā men wǎng wǎng yào qīn yǎn kàn zhe huáng jiǔ cóng tán zi lǐ yǎo chū ， kàn guò hú zi dǐ lǐ yǒu shuǐ méi yǒu ， yòu qīn kàn jiāng hú zi fàng zài rè shuǐ lǐ ， rán hòu fàng xīn ： zài zhè yán zhòng jiān dū zhī xià ， chàn shuǐ yě hěn wéi nán 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "往往",
+          "pos": "t",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "亲眼",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "看着",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "黄酒",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "从",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "坛子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "舀出",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "看过",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "壶子",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "底里",
+          "pos": "f",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "水",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "亲",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "看",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "壶",
+          "pos": "q",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "子",
+          "pos": "ng",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "放在",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "热水",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "然后",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "放心",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "：",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "严重",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "监督",
+          "pos": "vn",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "之下",
+          "pos": "f",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "羼",
+          "pos": "g",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "水",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "为难",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "所以过了几天，掌柜又说我干不了这事。",
+      "pinyin": "suǒ yǐ guò le jǐ tiān ， zhǎng guì yòu shuō wǒ gàn bù liǎo zhè shì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "过",
+          "pos": "ug",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几天",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "掌柜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "干不了",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "这",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "幸亏荐头的情面大，辞退不得，便改为专管温酒的一种无聊职务了。",
+      "pinyin": "xìng kuī jiàn tóu de qíng miàn dà ， cí tuì bù dé ， biàn gǎi wéi zhuān guǎn wēn jiǔ de yī zhǒng wú liáo zhí wù le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "幸亏",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "荐",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "头",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            3,
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "情面",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "辞退",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "不得",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "改为",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "专管",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "温酒",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一种",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "无聊",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "职务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "我从此便整天的站在柜台里，专管我的职务。",
+      "pinyin": "wǒ cóng cǐ biàn zhěng tiān de zhàn zài guì tái lǐ ， zhuān guǎn wǒ de zhí wù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "从此",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "整天",
+          "pos": "m",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "站",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "柜台",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "专管",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "职务",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "虽然没有什么失职，但总觉有些单调，有些无聊。",
+      "pinyin": "suī rán méi yǒu shén me shī zhí ， dàn zǒng jué yǒu xiē dān diào ， yǒu xiē wú liáo 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "虽然",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "什么",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "失职",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "总觉",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有些",
+          "pos": "r",
+          "hsk": 1,
+          "cross": [
+            3
+          ],
+          "meaning": null
+        },
+        {
+          "w": "单调",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有些",
+          "pos": "r",
+          "hsk": 1,
+          "cross": [
+            3
+          ],
+          "meaning": null
+        },
+        {
+          "w": "无聊",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "掌柜是一副凶脸孔，主顾也没有好声气，教人活泼不得；",
+      "pinyin": "zhǎng guì shì yī fù xiōng liǎn kǒng ， zhǔ gù yě méi yǒu hǎo shēng qì ， jiào rén huó pō bù dé ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "掌柜",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一副",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "凶",
+          "pos": "zg",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "脸孔",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "主顾",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "好",
+          "pos": "a",
+          "hsk": 1,
+          "cross": [
+            2,
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "声气",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "教",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "活泼",
+          "pos": "a",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "不得",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "只有孔乙己到店，才可以笑几声，所以至今还记得。",
+      "pinyin": "zhǐ yǒu kǒng yǐ jǐ dào diàn ， cái kě yǐ xiào jǐ shēng ， suǒ yǐ zhì jīn hái jì de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "只有",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "孔乙己",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "店",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "才",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "可以",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "笑",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "几声",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "所以",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "至今",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "还",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "记得",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "孔乙己是站着喝酒而穿长衫的唯一的人。",
+      "pinyin": "kǒng yǐ jǐ shì zhàn zhe hē jiǔ ér chuān cháng shān de wéi yī de rén 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "孔乙己",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "站",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "喝酒",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "而",
+          "pos": "c",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "穿",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "长衫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "唯一",
+          "pos": "b",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "他身材很高大；",
+      "pinyin": "tā shēn cái hěn gāo dà ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "身材",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "zg",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "高大",
+          "pos": "a",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "靑白脸色，皱纹间时常夹些伤痕；",
+      "pinyin": "qīng bái liǎn sè ， zhòu wén jiān shí cháng jiā xiē shāng hén ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "靑",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "白",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "脸色",
+          "pos": "n",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "皱纹",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "间",
+          "pos": "f",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "时常",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "夹",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "些",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "伤痕",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "一部乱蓬蓬的花白的胡子。",
+      "pinyin": "yī bù luàn péng péng de huā bái de hú zi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "一部",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "乱蓬蓬",
+          "pos": "z",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "花白",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "胡子",
+          "pos": "nr",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "穿的虽然是长衫，可是又脏又破，似乎十多年没有补，也没有洗。",
+      "pinyin": "chuān de suī rán shì cháng shān ， kě shì yòu zàng yòu pò ， sì hū shí duō nián méi yǒu bǔ ， yě méi yǒu xǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "穿",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "虽然",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "长衫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "可是",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "脏",
+          "pos": "a",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "破",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "似乎",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "十多年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "补",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "洗",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "他对人说话，总是满口之乎者也，教人半懂不懂的。",
+      "pinyin": "tā duì rén shuō huà ， zǒng shì mǎn kǒu zhī hū zhě yě ， jiào rén bàn dǒng bù dǒng de 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "对",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说话",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "总是",
+          "pos": "c",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "满口",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "之乎者也",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "教",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "人",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "半懂不懂",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "格局",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "柜台",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "温酒",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "做工",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "傍午",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "柜外",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "倘肯",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "茴香豆",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "短衣",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "阔绰",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "长衫",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "掌柜",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "侍候",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "唠唠叨叨",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "舀出",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "幸亏",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "辞退",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "改为",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "专管",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "失职",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "皱纹",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "伤痕",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "乱蓬蓬",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "之乎者也",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

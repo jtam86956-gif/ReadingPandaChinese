@@ -1,0 +1,2958 @@
+{
+  "id": "wikisource_20261114_001",
+  "title": "背影（朱自清·节选）",
+  "source": "维基文库·公版书",
+  "source_url": "https://zh.wikisource.org/wiki/%E8%83%8C%E5%BD%B1",
+  "published_at": "2026-11-14",
+  "level": 6,
+  "category": "文学",
+  "tags": [],
+  "word_count": 509,
+  "audio_url": null,
+  "content": [
+    {
+      "sentence_id": "s1",
+      "text": "我与父亲不相见已二年余了，我最不能忘记的是他的背影。",
+      "pinyin": "wǒ yǔ fù qīn bù xiāng jiàn yǐ èr nián yú le ， wǒ zuì bù néng wàng jì de shì tā de bèi yǐng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "与",
+          "pos": "p",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "相见",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "二年",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "余",
+          "pos": "m",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "最",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不能",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "忘记",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "背影",
+          "pos": "n",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s2",
+      "text": "那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子，我从北京到徐州，打算跟着父亲奔丧囘家。",
+      "pinyin": "nà nián dōng tiān ， zǔ mǔ sǐ le ， fù qīn de chāi shǐ yě jiāo xiè le ， zhèng shì huò bù dān xíng de rì zi ， wǒ cóng běi jīng dào xú zhōu ， dǎ suàn gēn zhe fù qīn bēn sāng huí jiā 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "那年",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "冬天",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "祖母",
+          "pos": "nr",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "死",
+          "pos": "v",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "差使",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "交卸",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "正是",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "祸不单行",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "日子",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "从",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "北京",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "徐州",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "打算",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "跟着",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "奔丧",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "囘",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "家",
+          "pos": "q",
+          "hsk": 1,
+          "cross": [
+            3
+          ],
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s3",
+      "text": "到徐州见着父亲，看见满院狼藉的东西，又想起祖母，不禁簌簌地流下眼泪。",
+      "pinyin": "dào xú zhōu jiàn zhe fù qīn ， kàn jiàn mǎn yuàn láng jí de dōng xī ， yòu xiǎng qǐ zǔ mǔ ， bù jīn sù sù dì liú xià yǎn lèi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "徐州",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "见",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "看见",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "满院",
+          "pos": "nz",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "狼藉",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "东西",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "想起",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "祖母",
+          "pos": "nr",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不禁",
+          "pos": "d",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "簌簌",
+          "pos": "z",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "地",
+          "pos": "uv",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "流下",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "眼泪",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s4",
+      "text": "父亲说，「事已如此，不必难过，好在天无绝人之路！",
+      "pinyin": "fù qīn shuō ，「 shì yǐ rú cǐ ， bù bì nán guò ， hǎo zài tiān wú jué rén zhī lù ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "事已如此",
+          "pos": "l",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不必",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "难过",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "好",
+          "pos": "a",
+          "hsk": 1,
+          "cross": [
+            2,
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "在",
+          "pos": "p",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "天无绝人之路",
+          "pos": "i",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s5",
+      "text": "」囘家变卖典质，父亲还了亏空；",
+      "pinyin": "」 huí jiā biàn mài diǎn zhì ， fù qīn hái le kuī kōng ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "囘",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "家",
+          "pos": "q",
+          "hsk": 1,
+          "cross": [
+            3
+          ],
+          "meaning": null
+        },
+        {
+          "w": "变卖",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "典质",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "还",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "亏空",
+          "pos": "vn",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s6",
+      "text": "又借钱办了丧事。",
+      "pinyin": "yòu jiè qián bàn le sāng shì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "借钱",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "办",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "丧事",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s7",
+      "text": "这些日子，家中光景很是惨澹，一半为了丧事，一半为了父亲赋闲。",
+      "pinyin": "zhè xiē rì zi ， jiā zhōng guāng jǐng hěn shì cǎn dàn ， yí bàn wèi le sāng shì ， yí bàn wèi le fù qīn fù xián 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "这些",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "日子",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "家中",
+          "pos": "s",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "光景",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "很",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "惨",
+          "pos": "a",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "澹",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一半",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "为了",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "丧事",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "一半",
+          "pos": "m",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "为了",
+          "pos": "p",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "赋闲",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s8",
+      "text": "丧事完毕，父亲要到南京谋事，我也要囘北京念书，我们便同行。",
+      "pinyin": "sāng shì wán bì ， fù qīn yào dào nán jīng móu shì ， wǒ yě yào huí běi jīng niàn shū ， wǒ men biàn tóng háng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "丧事",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "完毕",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "南京",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "谋事",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "也",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "囘",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "北京",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "念书",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "同行",
+          "pos": "j",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s9",
+      "text": "到南京时，有朋友约去游逛，勾留了一日；",
+      "pinyin": "dào nán jīng shí ， yǒu péng yǒu yuē qù yóu guàng ， gōu liú le yī rì ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "南京",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "时",
+          "pos": "n",
+          "hsk": 2,
+          "cross": [
+            6
+          ],
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "朋友",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "约",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "游逛",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "勾留",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一日",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s10",
+      "text": "第二日上午便须渡江到浦口，下午上车北去。",
+      "pinyin": "dì èr rì shàng wǔ biàn xū dù jiāng dào pǔ kǒu ， xià wǔ shàng chē běi qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "第二日",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "上午",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "须",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "渡江",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "到",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "浦口",
+          "pos": "ns",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "下午",
+          "pos": "t",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "上车",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "北",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s11",
+      "text": "父亲因为事忙，本已说定不送我，叫旅馆里一个熟识的茶房陪我同去。",
+      "pinyin": "fù qīn yīn wèi shì máng ， běn yǐ shuō dìng bù sòng wǒ ， jiào lǚ guǎn lǐ yí gè shú shí de chá fáng péi wǒ tóng qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "父亲",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "因为",
+          "pos": "c",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "事",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "忙",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "本",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "说定",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "送",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "叫",
+          "pos": "v",
+          "hsk": 1,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "旅馆",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "里",
+          "pos": "f",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一个",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "熟识",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "茶房",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "陪",
+          "pos": "v",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "同去",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s12",
+      "text": "他再三嘱付茶房，甚是仔细。",
+      "pinyin": "tā zài sān zhǔ fù chá fáng ， shèn shì zǐ xì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "再三",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "嘱付",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "茶房",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "甚",
+          "pos": "zg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "仔细",
+          "pos": "ad",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s13",
+      "text": "但他终于不放心，怕茶房不妥帖；",
+      "pinyin": "dàn tā zhōng yú bù fàng xīn ， pà chá fáng bù tuǒ tiē ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "终于",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "放心",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "怕",
+          "pos": "v",
+          "hsk": 2,
+          "cross": [
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "茶房",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "妥帖",
+          "pos": "a",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s14",
+      "text": "颇踌躇了一会。",
+      "pinyin": "pǒ chóu chú le yī huì 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "颇",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "踌躇",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一会",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s15",
+      "text": "其实我那年已二十岁，北京已来往过两三次，是没有甚么要紧的了。",
+      "pinyin": "qí shí wǒ nà nián yǐ èr shí suì ， běi jīng yǐ lái wǎng guò liǎng sān cì ， shì méi yǒu shén me yào jǐn de le 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "其实",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "那年",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "二十岁",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "北京",
+          "pos": "ns",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "已",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "来往",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "过",
+          "pos": "ug",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "两三次",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "没有",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "甚么",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "要紧",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s16",
+      "text": "他踌躇了一会，终于决定还是自己送我去。",
+      "pinyin": "tā chóu chú le yī huì ， zhōng yú jué dìng hái shì zì jǐ sòng wǒ qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "踌躇",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一会",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "终于",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "决定",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "还是",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "自己",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "送",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s17",
+      "text": "我两三囘劝他不必去；",
+      "pinyin": "wǒ liǎng sān huí quàn tā bù bì qù ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "两三",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "囘",
+          "pos": "yg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "劝",
+          "pos": "v",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不必",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s18",
+      "text": "他只说，「不要紧，他们去不好！",
+      "pinyin": "tā zhǐ shuō ，「 bú yào jǐn ， tā men qù bù hǎo ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "只",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "「",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不要紧",
+          "pos": "l",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "去",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不好",
+          "pos": "d",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s19",
+      "text": "」我们过了江，进了车站。",
+      "pinyin": "」 wǒ men guò le jiāng ， jìn le chē zhàn 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "」",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "过",
+          "pos": "ug",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "江",
+          "pos": "ns",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "进",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "车站",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s20",
+      "text": "我买票，他忙着照看行李。",
+      "pinyin": "wǒ mǎi piào ， tā máng zhe zhào kàn xíng lǐ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "买票",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "忙",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "照看",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "行李",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s21",
+      "text": "行李太多了，得向脚夫行些小费，才可过去。",
+      "pinyin": "xíng lǐ tài duō le ， dé xiàng jiǎo fū xíng xiē xiǎo fèi ， cái kě guò qù 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "行李",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "太",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "多",
+          "pos": "m",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "得向",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "脚夫",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "行",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "些",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "小费",
+          "pos": "n",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "才",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "可",
+          "pos": "v",
+          "hsk": 3,
+          "cross": [
+            5
+          ],
+          "meaning": null
+        },
+        {
+          "w": "过去",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s22",
+      "text": "他便又忙着和他们讲价钱。",
+      "pinyin": "tā biàn yòu máng zhe hé tā men jiǎng jià qián 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "便",
+          "pos": "d",
+          "hsk": 5,
+          "meaning": null
+        },
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "忙",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "着",
+          "pos": "uz",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "和",
+          "pos": "c",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "讲价钱",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s23",
+      "text": "我那时真是聪明过分，总觉他说话不大漂亮，非自己插嘴不可。",
+      "pinyin": "wǒ nà shí zhēn shì cōng míng guò fèn ， zǒng jué tā shuō huà bù dà piào liàng ， fēi zì jǐ chā zuǐ bù kě 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "那时",
+          "pos": "r",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "真是",
+          "pos": "d",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "聪明",
+          "pos": "a",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "过分",
+          "pos": "n",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "总觉",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "说话",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "不",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "大",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "漂亮",
+          "pos": "a",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "非",
+          "pos": "h",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "自己",
+          "pos": "r",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "插嘴",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "不可",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s24",
+      "text": "但他终于讲定了价钱；",
+      "pinyin": "dàn tā zhōng yú jiǎng dìng le jià qián ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "但",
+          "pos": "c",
+          "hsk": 2,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "终于",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "讲定",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "价钱",
+          "pos": "n",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s25",
+      "text": "就送我上车。",
+      "pinyin": "jiù sòng wǒ shàng chē 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "就",
+          "pos": "d",
+          "hsk": 1,
+          "cross": [
+            7,
+            9
+          ],
+          "meaning": null
+        },
+        {
+          "w": "送",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "上车",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s26",
+      "text": "他给我拣定了靠车门的一张椅子；",
+      "pinyin": "tā gěi wǒ jiǎn dìng le kào chē mén de yī zhāng yǐ zi ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "给",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "拣定",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "了",
+          "pos": "ul",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "靠",
+          "pos": "v",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "车门",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "一张",
+          "pos": "m",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "椅子",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s27",
+      "text": "我将他给我做的紫毛大衣铺好坐位。",
+      "pinyin": "wǒ jiāng tā gěi wǒ zuò de zǐ máo dà yī pù hǎo zuò wèi 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "将",
+          "pos": "d",
+          "hsk": 4,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "给",
+          "pos": "p",
+          "hsk": 1,
+          "cross": [
+            2
+          ],
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "做",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "紫毛",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "大衣",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "铺",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "好",
+          "pos": "a",
+          "hsk": 1,
+          "cross": [
+            2,
+            4
+          ],
+          "meaning": null
+        },
+        {
+          "w": "坐位",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s28",
+      "text": "他嘱我路上小心，夜里要警醒些，不要受凉。",
+      "pinyin": "tā zhǔ wǒ lù shàng xiǎo xīn ， yè lǐ yào jǐng xǐng xiē ， bú yào shòu liáng 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "嘱",
+          "pos": "vg",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "路上",
+          "pos": "s",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "小心",
+          "pos": "n",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "夜里",
+          "pos": "t",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "要",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "警醒",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "些",
+          "pos": "q",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "不要",
+          "pos": "df",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "受凉",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s29",
+      "text": "又嘱托茶房好好照应我。",
+      "pinyin": "yòu zhǔ tuō chá fáng hǎo hǎo zhào yìng wǒ 。",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "又",
+          "pos": "d",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "嘱托",
+          "pos": "v",
+          "hsk": 7,
+          "meaning": null
+        },
+        {
+          "w": "茶房",
+          "pos": "n",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "好好",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "照应",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "。",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s30",
+      "text": "我心里暗笑他的迂；",
+      "pinyin": "wǒ xīn lǐ àn xiào tā de yū ；",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "我",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "心里",
+          "pos": "s",
+          "hsk": 2,
+          "meaning": null
+        },
+        {
+          "w": "暗笑",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "他",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "的",
+          "pos": "uj",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "迂",
+          "pos": "v",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "；",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    },
+    {
+      "sentence_id": "s31",
+      "text": "他们只认得钱，托他们直是白托！",
+      "pinyin": "tā men zhǐ rèn de qián ， tuō tā men zhí shì bái tuō ！",
+      "translation": null,
+      "audio_url": null,
+      "tokens": [
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "只",
+          "pos": "d",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "认得",
+          "pos": "v",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "钱",
+          "pos": "n",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "，",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "托",
+          "pos": "v",
+          "hsk": 6,
+          "meaning": null
+        },
+        {
+          "w": "他们",
+          "pos": "r",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "直",
+          "pos": "d",
+          "hsk": 3,
+          "meaning": null
+        },
+        {
+          "w": "是",
+          "pos": "v",
+          "hsk": 1,
+          "meaning": null
+        },
+        {
+          "w": "白托",
+          "pos": "nr",
+          "hsk": null,
+          "meaning": null
+        },
+        {
+          "w": "！",
+          "pos": "x",
+          "hsk": null,
+          "meaning": null
+        }
+      ]
+    }
+  ],
+  "new_vocab": [
+    {
+      "w": "相见",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "背影",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "交卸",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "祸不单行",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "奔丧",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "狼藉",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "不禁",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "簌簌",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "典质",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "丧事",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "赋闲",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "完毕",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "谋事",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "念书",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "同行",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "勾留",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "茶房",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "嘱付",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "妥帖",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "踌躇",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "来往",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "甚么",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "要紧",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "脚夫",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "小费",
+      "hsk": 6,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "真是",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "插嘴",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "拣定",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "警醒",
+      "hsk": null,
+      "meaning": null,
+      "example": null
+    },
+    {
+      "w": "嘱托",
+      "hsk": 7,
+      "meaning": null,
+      "example": null
+    }
+  ]
+}

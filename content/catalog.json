@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-11-17T18:24:40",
-  "count": 39,
+  "generated_at": "2026-11-18T17:54:58",
+  "count": 44,
   "items": [
     {
-      "id": "wikisource_20261117_001",
-      "title": "故乡（鲁迅·节选）",
+      "id": "wikisource_20261118_004",
+      "title": "民报发刊词（孙文·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-17",
-      "level": 6,
-      "category": "文学",
-      "word_count": 527,
-      "path": "content/wikisource/2026-11-17/wikisource_20261117_001/manifest.json"
+      "published_at": "2026-11-18",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-18/wikisource_20261118_004/manifest.json"
     },
     {
-      "id": "wikisource_20261117_005",
+      "id": "wikisource_20261118_005",
+      "title": "狂人日记（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-18",
+      "level": 7,
+      "category": "文学",
+      "word_count": 500,
+      "path": "content/wikisource/2026-11-18/wikisource_20261118_005/manifest.json"
+    },
+    {
+      "id": "wikisource_20261118_001",
+      "title": "阿Q正传（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-18",
+      "level": 6,
+      "category": "文学",
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-18/wikisource_20261118_001/manifest.json"
+    },
+    {
+      "id": "wikisource_20261118_002",
+      "title": "文学改良刍议（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-18",
+      "level": 9,
+      "category": "社科",
+      "word_count": 490,
+      "path": "content/wikisource/2026-11-18/wikisource_20261118_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261118_003",
       "title": "药（鲁迅·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-17",
+      "published_at": "2026-11-18",
       "level": 6,
       "category": "文学",
       "word_count": 520,
-      "path": "content/wikisource/2026-11-17/wikisource_20261117_005/manifest.json"
+      "path": "content/wikisource/2026-11-18/wikisource_20261118_003/manifest.json"
     },
     {
       "id": "wikisource_20261117_004",
@@ -33,14 +63,14 @@
       "path": "content/wikisource/2026-11-17/wikisource_20261117_004/manifest.json"
     },
     {
-      "id": "wikisource_20261117_003",
-      "title": "阿Q正传（鲁迅·节选）",
+      "id": "wikisource_20261117_005",
+      "title": "药（鲁迅·节选）",
       "source": "维基文库·公版书",
       "published_at": "2026-11-17",
       "level": 6,
       "category": "文学",
-      "word_count": 533,
-      "path": "content/wikisource/2026-11-17/wikisource_20261117_003/manifest.json"
+      "word_count": 520,
+      "path": "content/wikisource/2026-11-17/wikisource_20261117_005/manifest.json"
     },
     {
       "id": "wikisource_20261117_002",
@@ -53,14 +83,24 @@
       "path": "content/wikisource/2026-11-17/wikisource_20261117_002/manifest.json"
     },
     {
-      "id": "wikisource_20261116_001",
-      "title": "孔乙己（鲁迅·节选）",
+      "id": "wikisource_20261117_001",
+      "title": "故乡（鲁迅·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-16",
-      "level": 7,
+      "published_at": "2026-11-17",
+      "level": 6,
       "category": "文学",
-      "word_count": 523,
-      "path": "content/wikisource/2026-11-16/wikisource_20261116_001/manifest.json"
+      "word_count": 527,
+      "path": "content/wikisource/2026-11-17/wikisource_20261117_001/manifest.json"
+    },
+    {
+      "id": "wikisource_20261117_003",
+      "title": "阿Q正传（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-17",
+      "level": 6,
+      "category": "文学",
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-17/wikisource_20261117_003/manifest.json"
     },
     {
       "id": "wikisource_20261116_003",
@@ -73,6 +113,16 @@
       "path": "content/wikisource/2026-11-16/wikisource_20261116_003/manifest.json"
     },
     {
+      "id": "wikisource_20261116_001",
+      "title": "孔乙己（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-16",
+      "level": 7,
+      "category": "文学",
+      "word_count": 523,
+      "path": "content/wikisource/2026-11-16/wikisource_20261116_001/manifest.json"
+    },
+    {
       "id": "wikisource_20261116_004",
       "title": "容忍与自由（胡适·节选）",
       "source": "维基文库·公版书",
@@ -81,16 +131,6 @@
       "category": "社科",
       "word_count": 486,
       "path": "content/wikisource/2026-11-16/wikisource_20261116_004/manifest.json"
-    },
-    {
-      "id": "wikisource_20261116_005",
-      "title": "阿Q正传（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-16",
-      "level": 6,
-      "category": "文学",
-      "word_count": 533,
-      "path": "content/wikisource/2026-11-16/wikisource_20261116_005/manifest.json"
     },
     {
       "id": "wikisource_20261116_002",
@@ -103,44 +143,14 @@
       "path": "content/wikisource/2026-11-16/wikisource_20261116_002/manifest.json"
     },
     {
-      "id": "wikisource_20261115_001",
-      "title": "差不多先生传（胡适·节选）",
+      "id": "wikisource_20261116_005",
+      "title": "阿Q正传（鲁迅·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-15",
-      "level": 5,
+      "published_at": "2026-11-16",
+      "level": 6,
       "category": "文学",
-      "word_count": 515,
-      "path": "content/wikisource/2026-11-15/wikisource_20261115_001/manifest.json"
-    },
-    {
-      "id": "wikisource_20261115_002",
-      "title": "民报发刊词（孙文·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-15",
-      "level": 9,
-      "category": "社科",
-      "word_count": 512,
-      "path": "content/wikisource/2026-11-15/wikisource_20261115_002/manifest.json"
-    },
-    {
-      "id": "wikisource_20261115_004",
-      "title": "敬告青年（陈独秀·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-15",
-      "level": 9,
-      "category": "社科",
-      "word_count": 524,
-      "path": "content/wikisource/2026-11-15/wikisource_20261115_004/manifest.json"
-    },
-    {
-      "id": "wikisource_20261115_003",
-      "title": "孔乙己（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-15",
-      "level": 7,
-      "category": "文学",
-      "word_count": 523,
-      "path": "content/wikisource/2026-11-15/wikisource_20261115_003/manifest.json"
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-16/wikisource_20261116_005/manifest.json"
     },
     {
       "id": "wikisource_20261115_005",
@@ -153,24 +163,44 @@
       "path": "content/wikisource/2026-11-15/wikisource_20261115_005/manifest.json"
     },
     {
-      "id": "wikisource_20261114_003",
+      "id": "wikisource_20261115_001",
       "title": "差不多先生传（胡适·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-14",
+      "published_at": "2026-11-15",
       "level": 5,
       "category": "文学",
       "word_count": 515,
-      "path": "content/wikisource/2026-11-14/wikisource_20261114_003/manifest.json"
+      "path": "content/wikisource/2026-11-15/wikisource_20261115_001/manifest.json"
     },
     {
-      "id": "wikisource_20261114_005",
+      "id": "wikisource_20261115_004",
+      "title": "敬告青年（陈独秀·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-15",
+      "level": 9,
+      "category": "社科",
+      "word_count": 524,
+      "path": "content/wikisource/2026-11-15/wikisource_20261115_004/manifest.json"
+    },
+    {
+      "id": "wikisource_20261115_002",
+      "title": "民报发刊词（孙文·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-15",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-15/wikisource_20261115_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261115_003",
       "title": "孔乙己（鲁迅·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-14",
+      "published_at": "2026-11-15",
       "level": 7,
       "category": "文学",
       "word_count": 523,
-      "path": "content/wikisource/2026-11-14/wikisource_20261114_005/manifest.json"
+      "path": "content/wikisource/2026-11-15/wikisource_20261115_003/manifest.json"
     },
     {
       "id": "wikisource_20261114_004",
@@ -183,16 +213,6 @@
       "path": "content/wikisource/2026-11-14/wikisource_20261114_004/manifest.json"
     },
     {
-      "id": "wikisource_20261114_002",
-      "title": "文学改良刍议（胡适·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-14",
-      "level": 9,
-      "category": "社科",
-      "word_count": 490,
-      "path": "content/wikisource/2026-11-14/wikisource_20261114_002/manifest.json"
-    },
-    {
       "id": "wikisource_20261114_001",
       "title": "背影（朱自清·节选）",
       "source": "维基文库·公版书",
@@ -203,14 +223,34 @@
       "path": "content/wikisource/2026-11-14/wikisource_20261114_001/manifest.json"
     },
     {
-      "id": "wikisource_20261113_002",
-      "title": "容忍与自由（胡适·节选）",
+      "id": "wikisource_20261114_005",
+      "title": "孔乙己（鲁迅·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-13",
-      "level": 5,
+      "published_at": "2026-11-14",
+      "level": 7,
+      "category": "文学",
+      "word_count": 523,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_005/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_002",
+      "title": "文学改良刍议（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 9,
       "category": "社科",
-      "word_count": 486,
-      "path": "content/wikisource/2026-11-13/wikisource_20261113_002/manifest.json"
+      "word_count": 490,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261114_003",
+      "title": "差不多先生传（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-14",
+      "level": 5,
+      "category": "文学",
+      "word_count": 515,
+      "path": "content/wikisource/2026-11-14/wikisource_20261114_003/manifest.json"
     },
     {
       "id": "wikisource_20261113_003",
@@ -233,16 +273,6 @@
       "path": "content/wikisource/2026-11-13/wikisource_20261113_004/manifest.json"
     },
     {
-      "id": "wikisource_20261113_005",
-      "title": "差不多先生传（胡适·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-13",
-      "level": 5,
-      "category": "文学",
-      "word_count": 515,
-      "path": "content/wikisource/2026-11-13/wikisource_20261113_005/manifest.json"
-    },
-    {
       "id": "wikisource_20261113_001",
       "title": "一件小事（鲁迅·节选）",
       "source": "维基文库·公版书",
@@ -253,74 +283,24 @@
       "path": "content/wikisource/2026-11-13/wikisource_20261113_001/manifest.json"
     },
     {
-      "id": "wikisource_20261112_005",
-      "title": "背影（朱自清·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "文学",
-      "word_count": 509,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_005/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_002",
-      "title": "敬告青年（陈独秀·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 9,
-      "category": "社科",
-      "word_count": 524,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_002/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_010",
-      "title": "故乡（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "文学",
-      "word_count": 527,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_010/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_004",
+      "id": "wikisource_20261113_002",
       "title": "容忍与自由（胡适·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
+      "published_at": "2026-11-13",
       "level": 5,
       "category": "社科",
       "word_count": 486,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_004/manifest.json"
+      "path": "content/wikisource/2026-11-13/wikisource_20261113_002/manifest.json"
     },
     {
-      "id": "wikisource_20261112_008",
-      "title": "民报发刊词（孙文·节选）",
+      "id": "wikisource_20261113_005",
+      "title": "差不多先生传（胡适·节选）",
       "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 9,
-      "category": "社科",
-      "word_count": 512,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_008/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_013",
-      "title": "狂人日记（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 7,
+      "published_at": "2026-11-13",
+      "level": 5,
       "category": "文学",
-      "word_count": 500,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_013/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_009",
-      "title": "孔乙己（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 7,
-      "category": "文学",
-      "word_count": 523,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_009/manifest.json"
+      "word_count": 515,
+      "path": "content/wikisource/2026-11-13/wikisource_20261113_005/manifest.json"
     },
     {
       "id": "wikisource_20261112_001",
@@ -333,44 +313,14 @@
       "path": "content/wikisource/2026-11-12/wikisource_20261112_001/manifest.json"
     },
     {
-      "id": "wikisource_20261112_011",
-      "title": "阿Q正传（鲁迅·节选）",
+      "id": "wikisource_20261112_013",
+      "title": "狂人日记（鲁迅·节选）",
       "source": "维基文库·公版书",
       "published_at": "2026-11-12",
-      "level": 6,
+      "level": 7,
       "category": "文学",
-      "word_count": 533,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_011/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_006",
-      "title": "文学改良刍议（胡适·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 9,
-      "category": "社科",
-      "word_count": 490,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_006/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_014",
-      "title": "祝福（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "文学",
-      "word_count": 494,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_014/manifest.json"
-    },
-    {
-      "id": "wikisource_20261112_003",
-      "title": "一件小事（鲁迅·节选）",
-      "source": "维基文库·公版书",
-      "published_at": "2026-11-12",
-      "level": 6,
-      "category": "文学",
-      "word_count": 520,
-      "path": "content/wikisource/2026-11-12/wikisource_20261112_003/manifest.json"
+      "word_count": 500,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_013/manifest.json"
     },
     {
       "id": "wikisource_20261112_012",
@@ -383,6 +333,76 @@
       "path": "content/wikisource/2026-11-12/wikisource_20261112_012/manifest.json"
     },
     {
+      "id": "wikisource_20261112_005",
+      "title": "背影（朱自清·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "文学",
+      "word_count": 509,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_005/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_010",
+      "title": "故乡（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "文学",
+      "word_count": 527,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_010/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_003",
+      "title": "一件小事（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "文学",
+      "word_count": 520,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_003/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_009",
+      "title": "孔乙己（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 7,
+      "category": "文学",
+      "word_count": 523,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_009/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_006",
+      "title": "文学改良刍议（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 9,
+      "category": "社科",
+      "word_count": 490,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_006/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_002",
+      "title": "敬告青年（陈独秀·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 9,
+      "category": "社科",
+      "word_count": 524,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_008",
+      "title": "民报发刊词（孙文·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_008/manifest.json"
+    },
+    {
       "id": "wikisource_20261112_007",
       "title": "差不多先生传（胡适·节选）",
       "source": "维基文库·公版书",
@@ -391,6 +411,36 @@
       "category": "文学",
       "word_count": 515,
       "path": "content/wikisource/2026-11-12/wikisource_20261112_007/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_004",
+      "title": "容忍与自由（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 5,
+      "category": "社科",
+      "word_count": 486,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_004/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_011",
+      "title": "阿Q正传（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "文学",
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_011/manifest.json"
+    },
+    {
+      "id": "wikisource_20261112_014",
+      "title": "祝福（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-12",
+      "level": 6,
+      "category": "文学",
+      "word_count": 494,
+      "path": "content/wikisource/2026-11-12/wikisource_20261112_014/manifest.json"
     }
   ]
 }

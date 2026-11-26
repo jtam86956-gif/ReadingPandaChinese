@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-25T18:59:53",
-  "count": 79,
+  "generated_at": "2026-11-26T18:38:03",
+  "count": 84,
   "items": [
+    {
+      "id": "wikisource_20261126_005",
+      "title": "阿Q正传（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-26",
+      "level": 6,
+      "category": "文学",
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-26/wikisource_20261126_005/manifest.json"
+    },
+    {
+      "id": "wikisource_20261126_002",
+      "title": "文学改良刍议（胡适·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-26",
+      "level": 9,
+      "category": "社科",
+      "word_count": 500,
+      "path": "content/wikisource/2026-11-26/wikisource_20261126_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261126_003",
+      "title": "故乡（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-26",
+      "level": 6,
+      "category": "文学",
+      "word_count": 527,
+      "path": "content/wikisource/2026-11-26/wikisource_20261126_003/manifest.json"
+    },
+    {
+      "id": "wikisource_20261126_004",
+      "title": "民报发刊词（孙文·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-26",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-26/wikisource_20261126_004/manifest.json"
+    },
+    {
+      "id": "wikisource_20261126_001",
+      "title": "孔乙己（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-26",
+      "level": 7,
+      "category": "文学",
+      "word_count": 523,
+      "path": "content/wikisource/2026-11-26/wikisource_20261126_001/manifest.json"
+    },
     {
       "id": "wikisource_20261125_001",
       "title": "差不多先生传（胡适·节选）",

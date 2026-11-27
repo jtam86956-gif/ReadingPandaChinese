@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-26T18:38:03",
-  "count": 84,
+  "generated_at": "2026-11-27T18:39:57",
+  "count": 89,
   "items": [
+    {
+      "id": "wikisource_20261127_004",
+      "title": "敬告青年（陈独秀·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-27",
+      "level": 9,
+      "category": "社科",
+      "word_count": 524,
+      "path": "content/wikisource/2026-11-27/wikisource_20261127_004/manifest.json"
+    },
+    {
+      "id": "wikisource_20261127_002",
+      "title": "民报发刊词（孙文·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-27",
+      "level": 9,
+      "category": "社科",
+      "word_count": 512,
+      "path": "content/wikisource/2026-11-27/wikisource_20261127_002/manifest.json"
+    },
+    {
+      "id": "wikisource_20261127_001",
+      "title": "故乡（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-27",
+      "level": 6,
+      "category": "文学",
+      "word_count": 527,
+      "path": "content/wikisource/2026-11-27/wikisource_20261127_001/manifest.json"
+    },
+    {
+      "id": "wikisource_20261127_003",
+      "title": "阿Q正传（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-27",
+      "level": 6,
+      "category": "文学",
+      "word_count": 533,
+      "path": "content/wikisource/2026-11-27/wikisource_20261127_003/manifest.json"
+    },
+    {
+      "id": "wikisource_20261127_005",
+      "title": "药（鲁迅·节选）",
+      "source": "维基文库·公版书",
+      "published_at": "2026-11-27",
+      "level": 6,
+      "category": "文学",
+      "word_count": 520,
+      "path": "content/wikisource/2026-11-27/wikisource_20261127_005/manifest.json"
+    },
     {
       "id": "wikisource_20261126_005",
       "title": "阿Q正传（鲁迅·节选）",
